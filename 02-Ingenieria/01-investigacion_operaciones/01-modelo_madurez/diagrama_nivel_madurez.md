@@ -243,3 +243,180 @@
 <text x="370" y="1674" text-anchor="middle" font-size="12" font-weight="500" fill="#E1F5EE" font-family="sans-serif">Una mesa exitosa: madura operativamente + rentable como negocio</text>
 <text x="370" y="1690" text-anchor="middle" font-size="9" fill="#9FE1CB" font-family="sans-serif">ITIL v5 · 4 dimensiones · Monitor/Support/Fulfill · Service · Experience · Foundation · Feedback operativo · Negocio</text>
 </svg>
+
+---
+
+<svg width="100%" viewBox="0 0 780 1340" xmlns="http://www.w3.org/2000/svg">
+<text x="370" y="22" text-anchor="middle" font-size="13" font-weight="500" fill="#2C2C2A" font-family="sans-serif">Glosario · Términos clave del modelo</text>
+<text x="370" y="38" text-anchor="middle" font-size="11" fill="#888780" font-family="sans-serif">PersonalSoft · Mesa de Servicios de Nueva Generación · ITIL v5</text>
+<rect x="40" y="52" width="700" height="24" rx="4" fill="#26215C"/>
+<text x="200" y="68" text-anchor="middle" font-size="9" font-weight="500" fill="#CECBF6" font-family="sans-serif">Término</text>
+<line x1="360" y1="52" x2="360" y2="76" stroke="#534AB7" stroke-width="0.5"/>
+<text x="560" y="68" text-anchor="middle" font-size="9" font-weight="500" fill="#CECBF6" font-family="sans-serif">Qué significa en el contexto de este modelo</text>
+<rect x="40" y="76" width="700" height="66" rx="0" fill="#E1F5EE" stroke="#1D9E75" stroke-width="0.4"/>
+<rect x="40" y="76" width="320" height="66" rx="0" fill="#E1F5EE" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="97" font-size="11" font-weight="500" fill="#085041" font-family="sans-serif">KEDB</text>
+<text x="60" y="111" font-size="9" fill="#0F6E56" font-family="sans-serif">Known Error Database</text>
+<text x="60" y="125" font-size="9" fill="#0F6E56" font-family="sans-serif">Base de Datos de Errores Conocidos</text>
+<line x1="360" y1="76" x2="360" y2="142" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="96" font-size="9" fill="#2C2C2A" font-family="sans-serif">Repositorio donde se documenta qué falló, por qué y cómo resolverlo.</text>
+<text x="375" y="110" font-size="9" fill="#2C2C2A" font-family="sans-serif">Es la memoria institucional de la mesa. Sin KEDB el conocimiento</text>
+<text x="375" y="124" font-size="9" fill="#2C2C2A" font-family="sans-serif">vive en personas y se pierde cuando rotan. Con KEDB cualquier</text>
+<text x="375" y="138" font-size="9" fill="#2C2C2A" font-family="sans-serif">agente nuevo puede resolver desde el primer día.</text>
+<rect x="40" y="142" width="700" height="66" rx="0" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.4"/>
+<rect x="40" y="142" width="320" height="66" rx="0" fill="#EEEDFE" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="163" font-size="11" font-weight="500" fill="#3C3489" font-family="sans-serif">ANS / SLA</text>
+<text x="60" y="177" font-size="9" fill="#534AB7" font-family="sans-serif">Acuerdo de Nivel de Servicio</text>
+<text x="60" y="191" font-size="9" fill="#534AB7" font-family="sans-serif">Service Level Agreement</text>
+<line x1="360" y1="142" x2="360" y2="208" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="162" font-size="9" fill="#2C2C2A" font-family="sans-serif">Contrato de tiempos de respuesta y resolución entre PS y el cliente.</text>
+<text x="375" y="176" font-size="9" fill="#2C2C2A" font-family="sans-serif">En este modelo se mide por prioridad: Crítico &lt;1h · Alto &lt;4h</text>
+<text x="375" y="190" font-size="9" fill="#2C2C2A" font-family="sans-serif">Medio &lt;8h · Bajo &lt;24h. Si no se mide, el ANS no existe en</text>
+<text x="375" y="204" font-size="9" fill="#2C2C2A" font-family="sans-serif">la práctica aunque esté firmado.</text>
+<rect x="40" y="208" width="700" height="66" rx="0" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.4"/>
+<rect x="40" y="208" width="320" height="66" rx="0" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="229" font-size="11" font-weight="500" fill="#0C447C" font-family="sans-serif">RACI</text>
+<text x="60" y="243" font-size="9" fill="#185FA5" font-family="sans-serif">Responsible · Accountable</text>
+<text x="60" y="257" font-size="9" fill="#185FA5" font-family="sans-serif">Consulted · Informed</text>
+<line x1="360" y1="208" x2="360" y2="274" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="228" font-size="9" fill="#2C2C2A" font-family="sans-serif">Matriz que define quién hace qué. R = quien ejecuta, A = quien</text>
+<text x="375" y="242" font-size="9" fill="#2C2C2A" font-family="sans-serif">responde por el resultado, C = a quien se consulta, I = quien</text>
+<text x="375" y="256" font-size="9" fill="#2C2C2A" font-family="sans-serif">debe ser informado. Sin RACI, cuando algo sale mal nadie sabe</text>
+<text x="375" y="270" font-size="9" fill="#2C2C2A" font-family="sans-serif">de quién es la responsabilidad.</text>
+<rect x="40" y="274" width="700" height="66" rx="0" fill="#FAECE7" stroke="#D85A30" stroke-width="0.4"/>
+<rect x="40" y="274" width="320" height="66" rx="0" fill="#FAECE7" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="295" font-size="11" font-weight="500" fill="#712B13" font-family="sans-serif">Bus factor</text>
+<text x="60" y="309" font-size="9" fill="#993C1D" font-family="sans-serif">Dependencia crítica de una persona</text>
+<line x1="360" y1="274" x2="360" y2="340" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="294" font-size="9" fill="#2C2C2A" font-family="sans-serif">Riesgo que ocurre cuando el servicio depende de una sola persona.</text>
+<text x="375" y="308" font-size="9" fill="#2C2C2A" font-family="sans-serif">Si esa persona sale de vacaciones, renuncia o se enferma, el</text>
+<text x="375" y="322" font-size="9" fill="#2C2C2A" font-family="sans-serif">servicio se degrada. La KEDB y el RACI son los antídotos.</text>
+<text x="375" y="336" font-size="9" fill="#888780" font-family="sans-serif">En N1 todas las mesas tienen bus factor alto.</text>
+<rect x="40" y="340" width="700" height="66" rx="0" fill="#FAEEDA" stroke="#EF9F27" stroke-width="0.4"/>
+<rect x="40" y="340" width="320" height="66" rx="0" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="361" font-size="11" font-weight="500" fill="#633806" font-family="sans-serif">AIOps</text>
+<text x="60" y="375" font-size="9" fill="#854F0B" font-family="sans-serif">Artificial Intelligence for IT Operations</text>
+<text x="60" y="389" font-size="9" fill="#854F0B" font-family="sans-serif">IA aplicada a operaciones de TI</text>
+<line x1="360" y1="340" x2="360" y2="406" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="360" font-size="9" fill="#2C2C2A" font-family="sans-serif">Uso de IA para monitorear, detectar y predecir problemas en</text>
+<text x="375" y="374" font-size="9" fill="#2C2C2A" font-family="sans-serif">sistemas antes de que generen un incidente visible. En N5,</text>
+<text x="375" y="388" font-size="9" fill="#2C2C2A" font-family="sans-serif">AIOps detecta que una integración va a fallar antes de que</text>
+<text x="375" y="402" font-size="9" fill="#2C2C2A" font-family="sans-serif">el usuario lo reporte.</text>
+<rect x="40" y="406" width="700" height="66" rx="0" fill="#E1F5EE" stroke="#1D9E75" stroke-width="0.4"/>
+<rect x="40" y="406" width="320" height="66" rx="0" fill="#E1F5EE" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="427" font-size="11" font-weight="500" fill="#085041" font-family="sans-serif">CSAT</text>
+<text x="60" y="441" font-size="9" fill="#0F6E56" font-family="sans-serif">Customer Satisfaction Score</text>
+<text x="60" y="455" font-size="9" fill="#0F6E56" font-family="sans-serif">Índice de satisfacción del cliente</text>
+<line x1="360" y1="406" x2="360" y2="472" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="426" font-size="9" fill="#2C2C2A" font-family="sans-serif">Encuesta corta que se envía al usuario después de que su ticket</text>
+<text x="375" y="440" font-size="9" fill="#2C2C2A" font-family="sans-serif">se resuelve. En N3 se mide por ticket. En N4 se cruza con otros</text>
+<text x="375" y="454" font-size="9" fill="#2C2C2A" font-family="sans-serif">indicadores para entender qué impacta realmente la percepción</text>
+<text x="375" y="468" font-size="9" fill="#2C2C2A" font-family="sans-serif">del cliente.</text>
+<rect x="40" y="472" width="700" height="66" rx="0" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.4"/>
+<rect x="40" y="472" width="320" height="66" rx="0" fill="#EEEDFE" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="493" font-size="11" font-weight="500" fill="#3C3489" font-family="sans-serif">NPS</text>
+<text x="60" y="507" font-size="9" fill="#534AB7" font-family="sans-serif">Net Promoter Score</text>
+<text x="60" y="521" font-size="9" fill="#534AB7" font-family="sans-serif">Índice de promotores netos</text>
+<line x1="360" y1="472" x2="360" y2="538" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="492" font-size="9" fill="#2C2C2A" font-family="sans-serif">Pregunta única: ¿Qué tan probable es que recomiendes este</text>
+<text x="375" y="506" font-size="9" fill="#2C2C2A" font-family="sans-serif">servicio? (escala 0-10). Mide lealtad, no solo satisfacción puntual.</text>
+<text x="375" y="520" font-size="9" fill="#2C2C2A" font-family="sans-serif">Un cliente con CSAT alto pero NPS bajo no recomendaría el</text>
+<text x="375" y="534" font-size="9" fill="#2C2C2A" font-family="sans-serif">servicio aunque esté conforme.</text>
+<rect x="40" y="538" width="700" height="66" rx="0" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.4"/>
+<rect x="40" y="538" width="320" height="66" rx="0" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="559" font-size="11" font-weight="500" fill="#2C2C2A" font-family="sans-serif">GAP / Tiempo muerto</text>
+<text x="60" y="573" font-size="9" fill="#5F5E5A" font-family="sans-serif">% de tiempo no productivo del FTE</text>
+<line x1="360" y1="538" x2="360" y2="604" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="558" font-size="9" fill="#2C2C2A" font-family="sans-serif">Porcentaje del tiempo laboral que el analista no está resolviendo</text>
+<text x="375" y="572" font-size="9" fill="#2C2C2A" font-family="sans-serif">tickets (reuniones, capacitaciones, administrativo, esperas). Si el</text>
+<text x="375" y="586" font-size="9" fill="#2C2C2A" font-family="sans-serif">GAP es 30%, el analista solo tiene el 70% disponible para atender.</text>
+<text x="375" y="600" font-size="9" fill="#2C2C2A" font-family="sans-serif">Ignorarlo genera sobre-costo y sub-dimensionamiento.</text>
+<rect x="40" y="604" width="700" height="66" rx="0" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.4"/>
+<rect x="40" y="604" width="320" height="66" rx="0" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="625" font-size="11" font-weight="500" fill="#0C447C" font-family="sans-serif">FTE</text>
+<text x="60" y="639" font-size="9" fill="#185FA5" font-family="sans-serif">Full Time Equivalent</text>
+<text x="60" y="653" font-size="9" fill="#185FA5" font-family="sans-serif">Persona de tiempo completo equivalente</text>
+<line x1="360" y1="604" x2="360" y2="670" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="624" font-size="9" fill="#2C2C2A" font-family="sans-serif">Unidad de medida de capacidad humana. 1 FTE = 1 persona</text>
+<text x="375" y="638" font-size="9" fill="#2C2C2A" font-family="sans-serif">trabajando tiempo completo. Se usa para dimensionar cuántas</text>
+<text x="375" y="652" font-size="9" fill="#2C2C2A" font-family="sans-serif">personas se necesitan y para calcular el costo y margen del</text>
+<text x="375" y="666" font-size="9" fill="#2C2C2A" font-family="sans-serif">servicio por contrato.</text>
+<rect x="40" y="670" width="700" height="66" rx="0" fill="#FAECE7" stroke="#D85A30" stroke-width="0.4"/>
+<rect x="40" y="670" width="320" height="66" rx="0" fill="#FAECE7" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="691" font-size="11" font-weight="500" fill="#712B13" font-family="sans-serif">BCP / DRP</text>
+<text x="60" y="705" font-size="9" fill="#993C1D" font-family="sans-serif">Business Continuity Plan</text>
+<text x="60" y="719" font-size="9" fill="#993C1D" font-family="sans-serif">Disaster Recovery Plan</text>
+<line x1="360" y1="670" x2="360" y2="736" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="690" font-size="9" fill="#2C2C2A" font-family="sans-serif">Plan de continuidad del negocio y plan de recuperación ante</text>
+<text x="375" y="704" font-size="9" fill="#2C2C2A" font-family="sans-serif">desastres. En banca son obligatorios por la SFC. Definen qué</text>
+<text x="375" y="718" font-size="9" fill="#2C2C2A" font-family="sans-serif">hace la mesa cuando cae un sistema crítico: quién activa qué,</text>
+<text x="375" y="732" font-size="9" fill="#2C2C2A" font-family="sans-serif">en cuánto tiempo se recupera y cómo se documenta.</text>
+<rect x="40" y="736" width="700" height="66" rx="0" fill="#FAEEDA" stroke="#EF9F27" stroke-width="0.4"/>
+<rect x="40" y="736" width="320" height="66" rx="0" fill="#FAEEDA" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="757" font-size="11" font-weight="500" fill="#633806" font-family="sans-serif">PDN</text>
+<text x="60" y="771" font-size="9" fill="#854F0B" font-family="sans-serif">Pérdida de Disponibilidad del Negocio</text>
+<text x="60" y="785" font-size="9" fill="#854F0B" font-family="sans-serif">Producción Detenida</text>
+<line x1="360" y1="736" x2="360" y2="802" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="756" font-size="9" fill="#2C2C2A" font-family="sans-serif">Incidente de máxima criticidad: el negocio del cliente está detenido</text>
+<text x="375" y="770" font-size="9" fill="#2C2C2A" font-family="sans-serif">porque un sistema crítico no está disponible. En el modelo de ANS</text>
+<text x="375" y="784" font-size="9" fill="#2C2C2A" font-family="sans-serif">es prioridad Crítica: tiempo de respuesta máximo de 1 hora.</text>
+<text x="375" y="798" font-size="9" fill="#2C2C2A" font-family="sans-serif">Es el caso más urgente que puede recibir la mesa.</text>
+<rect x="40" y="802" width="700" height="66" rx="0" fill="#E1F5EE" stroke="#1D9E75" stroke-width="0.4"/>
+<rect x="40" y="802" width="320" height="66" rx="0" fill="#E1F5EE" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="823" font-size="11" font-weight="500" fill="#085041" font-family="sans-serif">Workaround</text>
+<text x="60" y="837" font-size="9" fill="#0F6E56" font-family="sans-serif">Solución temporal o alternativa provisional</text>
+<line x1="360" y1="802" x2="360" y2="868" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="822" font-size="9" fill="#2C2C2A" font-family="sans-serif">Solución provisional que permite al usuario seguir trabajando</text>
+<text x="375" y="836" font-size="9" fill="#2C2C2A" font-family="sans-serif">mientras se resuelve la causa raíz. No resuelve el problema,</text>
+<text x="375" y="850" font-size="9" fill="#2C2C2A" font-family="sans-serif">solo lo mitiga. Ejemplo: si el sistema de autenticación falla,</text>
+<text x="375" y="864" font-size="9" fill="#2C2C2A" font-family="sans-serif">el workaround es ingresar con un usuario genérico temporal.</text>
+<rect x="40" y="868" width="700" height="66" rx="0" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.4"/>
+<rect x="40" y="868" width="320" height="66" rx="0" fill="#EEEDFE" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="889" font-size="11" font-weight="500" fill="#3C3489" font-family="sans-serif">Human-in-the-loop</text>
+<text x="60" y="903" font-size="9" fill="#534AB7" font-family="sans-serif">Humano en el ciclo de decisión de IA</text>
+<line x1="360" y1="868" x2="360" y2="934" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="888" font-size="9" fill="#2C2C2A" font-family="sans-serif">Principio de gobierno de IA: un humano debe revisar y aprobar</text>
+<text x="375" y="902" font-size="9" fill="#2C2C2A" font-family="sans-serif">las decisiones críticas que toma la IA antes de ejecutarse. En N5</text>
+<text x="375" y="916" font-size="9" fill="#2C2C2A" font-family="sans-serif">la IA clasifica y sugiere, pero un humano decide en casos de baja</text>
+<text x="375" y="930" font-size="9" fill="#2C2C2A" font-family="sans-serif">confianza o alto impacto.</text>
+<rect x="40" y="934" width="700" height="66" rx="0" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.4"/>
+<rect x="40" y="934" width="320" height="66" rx="0" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="955" font-size="11" font-weight="500" fill="#2C2C2A" font-family="sans-serif">RTO / RPO</text>
+<text x="60" y="969" font-size="9" fill="#5F5E5A" font-family="sans-serif">Recovery Time / Point Objective</text>
+<text x="60" y="983" font-size="9" fill="#5F5E5A" font-family="sans-serif">Tiempo / Punto objetivo de recuperación</text>
+<line x1="360" y1="934" x2="360" y2="1000" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="954" font-size="9" fill="#2C2C2A" font-family="sans-serif">RTO = cuánto tiempo máximo puede estar caído un sistema antes</text>
+<text x="375" y="968" font-size="9" fill="#2C2C2A" font-family="sans-serif">de causar daño irreversible. RPO = hasta qué punto en el tiempo</text>
+<text x="375" y="982" font-size="9" fill="#2C2C2A" font-family="sans-serif">se pueden recuperar los datos. Clave en banca para medir N4</text>
+<text x="375" y="996" font-size="9" fill="#2C2C2A" font-family="sans-serif">de la capa sectorial.</text>
+<rect x="40" y="1000" width="700" height="66" rx="0" fill="#E6F1FB" stroke="#378ADD" stroke-width="0.4"/>
+<rect x="40" y="1000" width="320" height="66" rx="0" fill="#E6F1FB" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="1021" font-size="11" font-weight="500" fill="#0C447C" font-family="sans-serif">FTE</text>
+<text x="60" y="1035" font-size="9" fill="#185FA5" font-family="sans-serif">Full Time Equivalent</text>
+<text x="60" y="1049" font-size="9" fill="#185FA5" font-family="sans-serif">Persona de tiempo completo equivalente</text>
+<line x1="360" y1="1000" x2="360" y2="1066" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="1020" font-size="9" fill="#2C2C2A" font-family="sans-serif">Unidad de medida de capacidad humana. 1 FTE = 1 persona</text>
+<text x="375" y="1034" font-size="9" fill="#2C2C2A" font-family="sans-serif">trabajando tiempo completo. Se usa para dimensionar cuántas</text>
+<text x="375" y="1048" font-size="9" fill="#2C2C2A" font-family="sans-serif">personas se necesitan y para calcular el costo y margen del</text>
+<text x="375" y="1062" font-size="9" fill="#2C2C2A" font-family="sans-serif">servicio por contrato.</text>
+<rect x="40" y="1066" width="700" height="66" rx="0" fill="#E1F5EE" stroke="#1D9E75" stroke-width="0.4"/>
+<rect x="40" y="1066" width="320" height="66" rx="0" fill="#E1F5EE" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="1087" font-size="11" font-weight="500" fill="#085041" font-family="sans-serif">Upselling</text>
+<text x="60" y="1101" font-size="9" fill="#0F6E56" font-family="sans-serif">Expansión de cuenta · Venta incremental</text>
+<line x1="360" y1="1066" x2="360" y2="1132" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="1086" font-size="9" fill="#2C2C2A" font-family="sans-serif">Oportunidad de vender servicios adicionales a un cliente existente.</text>
+<text x="375" y="1100" font-size="9" fill="#2C2C2A" font-family="sans-serif">En N5 de la dimensión de negocio, la IA detecta patrones de uso</text>
+<text x="375" y="1114" font-size="9" fill="#2C2C2A" font-family="sans-serif">que sugieren que el cliente podría necesitar más capacidad, más</text>
+<text x="375" y="1128" font-size="9" fill="#2C2C2A" font-family="sans-serif">niveles o servicios adicionales.</text>
+<rect x="40" y="1132" width="700" height="66" rx="0" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.4"/>
+<rect x="40" y="1132" width="320" height="66" rx="0" fill="#EEEDFE" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="60" y="1153" font-size="11" font-weight="500" fill="#3C3489" font-family="sans-serif">Churn</text>
+<text x="60" y="1167" font-size="9" fill="#534AB7" font-family="sans-serif">Tasa de abandono o pérdida de cliente</text>
+<line x1="360" y1="1132" x2="360" y2="1198" stroke="#B4B2A9" stroke-width="0.4"/>
+<text x="375" y="1152" font-size="9" fill="#2C2C2A" font-family="sans-serif">Riesgo de que el cliente no renueve o se vaya a otro proveedor.</text>
+<text x="375" y="1166" font-size="9" fill="#2C2C2A" font-family="sans-serif">En N5 de la dimensión de negocio, la IA detecta señales tempranas</text>
+<text x="375" y="1180" font-size="9" fill="#2C2C2A" font-family="sans-serif">(CSAT bajando, tickets sin resolver, menos uso del servicio)</text>
+<text x="375" y="1194" font-size="9" fill="#2C2C2A" font-family="sans-serif">antes de que el cliente lo comunique.</text>
+<rect x="40" y="1206" width="700" height="24" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="370" y="1222" text-anchor="middle" font-size="9" fill="#5F5E5A" font-family="sans-serif">15 términos · Todos los acrónimos y conceptos usados en el Modelo de Madurez v2.2</text>
+</svg>
