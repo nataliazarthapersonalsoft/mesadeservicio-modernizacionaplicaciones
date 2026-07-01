@@ -1,4 +1,4 @@
-# Mapa de prácticas · Modelo de madurez v2.2
+# Mapa de prácticas · Modelo de madurez
 **PersonalSoft · ITIL v5 · 4 dimensiones · 13 prácticas + negocio + capa sectorial**
 
 ---
@@ -9,7 +9,7 @@
 <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </marker>
 </defs>
-<text x="370" y="22" text-anchor="middle" font-size="13" font-weight="500" fill="#2C2C2A" font-family="sans-serif">Modelo de madurez de mesas de servicio · v2.2</text>
+<text x="370" y="22" text-anchor="middle" font-size="13" font-weight="500" fill="#2C2C2A" font-family="sans-serif">Modelo de madurez de mesas de servicio</text>
 <text x="370" y="38" text-anchor="middle" font-size="11" fill="#888780" font-family="sans-serif">PersonalSoft · ITIL v5 · 4 dimensiones · 13 prácticas + negocio + capa sectorial</text>
 <text x="40" y="66" font-size="10" font-weight="500" fill="#888780" font-family="sans-serif" letter-spacing="1">PASO 0 · CLASIFICADOR INICIAL</text>
 <rect x="40" y="72" width="700" height="52" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
@@ -418,5 +418,5 @@
 <text x="375" y="1180" font-size="9" fill="#2C2C2A" font-family="sans-serif">(CSAT bajando, tickets sin resolver, menos uso del servicio)</text>
 <text x="375" y="1194" font-size="9" fill="#2C2C2A" font-family="sans-serif">antes de que el cliente lo comunique.</text>
 <rect x="40" y="1206" width="700" height="24" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
-<text x="370" y="1222" text-anchor="middle" font-size="9" fill="#5F5E5A" font-family="sans-serif">15 términos · Todos los acrónimos y conceptos usados en el Modelo de Madurez v2.2</text>
+<text x="370" y="1222" text-anchor="middle" font-size="9" fill="#5F5E5A" font-family="sans-serif">15 términos · Todos los acrónimos y conceptos usados en el Modelo de Madurez</text>
 </svg>
