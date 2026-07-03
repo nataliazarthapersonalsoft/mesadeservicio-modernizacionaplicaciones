@@ -1,6 +1,6 @@
 # Estudio de Mercado: Mesa de Servicios de Próxima Generación (Gen Next)
 ## Investigación Estratégica para el Diseño del Framework de Assessment y la Oferta Diferenciada
-*Documento v2.0 — Julio 2026. Actualizado con ITIL (Version 5), mercado Colombia/Latam, pricing outcome-based, XLA y agentic AI.*
+*Documento v1.0 — Julio 2026. Actualizado con ITIL (Version 5), mercado Colombia/Latam, pricing outcome-based, XLA y agentic AI.*
 
 ---
 
@@ -40,7 +40,28 @@ La evolución de las mesas de servicio no es lineal — es una secuencia de ampl
 
 *(Fuentes: [DITY/SlideShare](https://fr.slideshare.net/slideshow/dit-yvol4iss03/29363674), [ServiceNow Newsroom](https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-Sets-New-Standard-for-Fully-Autonomous-IT-Envisioning-a-Zero-Downtime-Zero-Outage-Future-With-Agentic-AI/default.aspx), [Ivanti](https://www.ivanti.com/en-gb/blog/agentic-ai-it-service-autonomy))*
 
+
+---
+
+### Línea de Tiempo Visual
+
+![Línea de tiempo — Evolución de las mesas de servicio](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/d64d77ad-ec99-4ab3-959e-0137d5566ad9/svg2_timeline.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvZDY0ZDc3YWQtZWM5OS00YWIzLTk1OWUtMDEzN2Q1NTY2YWQ5L3N2ZzJfdGltZWxpbmUucG5nPyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODM3MjM2OTl9fX1dfQ__&Signature=SFKiLzKYnhzEqJHkd8M~OMfWHzwvY9yCacX9kTg2Y5QJvCvaU4bBRpHLR9VDPL99xmNBFNZhO4HbOf75mk5DYgqeIOlPh02rc~qg6S-ncLHWv9s5FAbsTRmzePKt3KY6J7cuJsy5X-lArRSBnWfqRChFv9O1iD1yTEShC3JxWyZGvfpZiOIdh7o1wdwRuUmoGOyDMw7A11YxY~gT9Ioa9mxI31NMyKpsMbNjsp-aDJAteMKJd7jqbhL7CxcJh1x6YPFvmt~mgJPhbzbkddIgYOAo9F8Jc0Y6Q9qAgnDi6U4GA1l6DhobjNMPXPmhm0o2yoAl83wnRKXT4KD0ADgRKg__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
+
+
 ### 1.2 La Distinción Fundacional: Call Center vs. Help Desk vs. Service Desk
+
+---
+
+### Evolución Visual de las Mesas de Servicio
+
+![Línea de tiempo — Evolución de las mesas de servicio](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/d64d77ad-ec99-4ab3-959e-0137d5566ad9/svg2_timeline.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvZDY0ZDc3YWQtZWM5OS00YWIzLTk1OWUtMDEzN2Q1NTY2YWQ5L3N2ZzJfdGltZWxpbmUucG5nPyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODM3MjM2OTl9fX1dfQ__&Signature=SFKiLzKYnhzEqJHkd8M~OMfWHzwvY9yCacX9kTg2Y5QJvCvaU4bBRpHLR9VDPL99xmNBFNZhO4HbOf75mk5DYgqeIOlPh02rc~qg6S-ncLHWv9s5FAbsTRmzePKt3KY6J7cuJsy5X-lArRSBnWfqRChFv9O1iD1yTEShC3JxWyZGvfpZiOIdh7o1wdwRuUmoGOyDMw7A11YxY~gT9Ioa9mxI31NMyKpsMbNjsp-aDJAteMKJd7jqbhL7CxcJh1x6YPFvmt~mgJPhbzbkddIgYOAo9F8Jc0Y6Q9qAgnDi6U4GA1l6DhobjNMPXPmhm0o2yoAl83wnRKXT4KD0ADgRKg__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
+
 
 | Función | Misión Principal | Alcance |
 |---|---|---|
@@ -152,6 +173,17 @@ El modelo incluye además obligaciones explícitas de gobernanza: responsabilida
 
 **Qué se mantiene igual:**
 
+
+---
+
+### ITIL (Version 5): Diagrama del Ciclo de Vida y Modelo 6C
+
+![ITIL Version 5 — Ciclo de vida 8 etapas y Modelo 6C de IA](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/facfc879-5417-4627-8603-fbba8ec1160e/svg5_itil_v5.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvZmFjZmM4NzktNTQxNy00NjI3LTg2MDMtZmJiYThlYzExNjBlL3N2ZzVfaXRpbF92NS5wbmc~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MzcyMzY5OX19fV19&Signature=tVogXXgEv9JHD23ga73eD6wrHrkKagC2~bU3RBVwXpT9mcyM9AYg25fNTybIH~~CkpBhIG9vNbdETi5~QWa~zFLvvBzWtehIJZNTEPiFtHW5wiiXnyOn003Z8OygZpqQuNPVWVHbsl4wdx82BLqxRSNlCeiBbtvlfeqd0f6aIF8IU9FDca8b1YOo1z0YmbiMbXY2Bmt5cPtKA~NE8k03DirX-4a9hoF~K7NLt~hiknYVNimCHl73sfeXDktcghxrt~1s5VDWi7wvDBZPILv2NSoyET9SJgtfOUeRgHiT-JOinwP272m~fvFWCXqWTzhkZGmF1B--kftOfqbA~AHG3Q__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
+
+
 | Elemento | Estado en ITIL (Version 5) |
 |---|---|
 | Los 7 Guiding Principles (Focus on Value, Start Where You Are, Progress Iteratively with Feedback, Collaborate and Promote Visibility, Think and Work Holistically, Keep It Simple and Practical, Optimize and Automate) | Se mantienen sin cambios |
@@ -228,6 +260,16 @@ Los temas clave de Forrester: **agentic AI, ITOM, AIOps y observability**. Los L
 
 ---
 
+### Visualización: Mercado Global ITSM
+
+![Mercado Global ITSM — Tamaño y Proyección por fuente analítica](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/fd048496-6b11-47be-ab25-9f5f18194dae/svg1_mercado_global.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvZmQwNDg0OTYtNmIxMS00N2JlLWFiMjUtOWY1ZjE4MTk0ZGFlL3N2ZzFfbWVyY2Fkb19nbG9iYWwucG5nPyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODM3MjM2OTl9fX1dfQ__&Signature=aiHCEJ2rp1d0BjAYdjnjtrn6N0Tob9wq8l03HHGG~caM~o3eqN9dbLhfSsHLtVTY4raekBMQWQvNNX0ZIXfYq-rag4XvEPLrUtjfeZ4z-BqStA3qpq61y7WM42yvb74YeeybetCxgopyuKB379pdPRi693TiVB1YaerUUxqJPzDbN11JXZjTRACmDlSu6FhixAgzGgChf8IgKHebT1eLBGoQ7ugrx-nYuKNfvaDm8R29e-OvaTfk8I2uRcCopYrycztPgkNgrs9JRngqflJFFAyFwViDv12Nc17AIWvhnOP7FJc4Am-2DfRa1fL~6YzUr1RIrPhJuiYgC3dmZ3khZA__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
+
+
+---
+
 ## 3. Cómo los 12 Grandes Proveedores Posicionan sus Mesas
 
 ### 3.1 Tabla Comparativa
@@ -285,6 +327,17 @@ Los temas clave de Forrester: **agentic AI, ITOM, AIOps y observability**. Los L
 
 *(Fuentes: [Apps Run The World](https://www.appsruntheworld.com/top-10-it-service-management-software-vendors-and-market-forecast/), [ServiceNow](https://www.servicenow.com/products/itsm/pricing.html), [Synta](https://www.synta.pro/post/artificial-intelligence-in-itsm-key-takeaways-from-the-gartner-magic-quadrant-2024-2025))*
 
+
+---
+
+### Posicionamiento de Plataformas ITSM
+
+![Posicionamiento Competitivo — Cuota de mercado y Gartner MQ 2025](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/e064ffeb-1124-4eba-b4f6-27b84d99dd8c/svg6_competidores.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvZTA2NGZmZWItMTEyNC00ZWJhLWI0ZjYtMjdiODRkOTlkZDhjL3N2ZzZfY29tcGV0aWRvcmVzLnBuZz8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgzNzIzNjk5fX19XX0_&Signature=EgDAzNz2rQoXAUQaGTvXhz3Dihhg1lec2u~tYa3kNJQbaetZXC1-flUObDSvVGqHi7NcfLGLFXtMEj91DT94EsjduFwiYcUPwWya~4Fy9nv-6G-lNjKc3DGFjOWcjeY1LPvjqBgO8TzFR3NiQiKDJMK9476mMSNt6asattwwDcpBm0Bf~UB94bC4pESsRRHFUk94bKXnElzhAx7Silfn5u7L34i9JS4SdhgvY5~3bQCJ~bjQWMqQcvsGiv0NLmqvaVGNskdxswS7roEGbjn0SDizjFxr7kSxOOojjZG~o~apw5gl46GtjHsn5PBWrxQFLiSAh9nf63Y1eaAbBS5wSw__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
+
+
 ### 4.2 ServiceNow: El Estándar de Referencia
 
 ServiceNow tiene el 44.4% de cuota del mercado ITSM en 2024 y es el único Líder en el MQ de AI-ITSM 2025 ([Apps Run The World](https://www.appsruntheworld.com/top-10-it-service-management-software-vendors-and-market-forecast/)) ([DataLunix](https://www.datalunix.com/post/freshservice-magic-quadrant)). Su arquitectura de IA está organizada en tres niveles progresivos:
@@ -315,16 +368,25 @@ Estos benchmarks son el insumo crítico para el Framework de Assessment: permite
 | **Impacto KCS+IA en FCR** | +5–7 puntos | — | [SDI](https://www.servicedeskinstitute.com/resources/itsm-statistics-facts-and-trends-for-2024/) |
 | **Impacto IA en CSAT** | +15–22 pts cuando espera < 5 min | — | [Stealth Agents](https://stealthagents.com/research/ai-it-helpdesk-automation-statistics-2026) |
 
+
+---
+
+### Visualización: Benchmarks Industria
+
+![Benchmarks Industria — FCR, MTTR, Deflection, Impacto GenAI](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/5961b363-b8bc-437f-8074-c7663610bfd1/svg4_benchmarks.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvNTk2MWIzNjMtYjhiYy00MzdmLTgwNzQtYzc2NjM2MTBiZmQxL3N2ZzRfYmVuY2htYXJrcy5wbmc~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MzcyMzY5OX19fV19&Signature=L85obhkqmt81as1myRF~G1JkQbHFb6KBCq~FRML3PrLOqsJLODGQzf6rPOFujXw1wFgWm4-h4YV6ciJoYzvHRqsONPIMMAbeL6exUpes4ZtKmNd9N7En62bbcMHDL96eZzFFM8etTm1w9ZBPfAVkLHQVKKzQksdtkkyMF7nieeLPUJ7S6b1S91q2GpQvYcEv6Y2iO13WEJ-MAFZbAA--R7riEj202D8VDyxJxTk-5QOnQ9GQScMvBOGQeUsvbEdxxT4rcAM3n2S9mrVRDH8fRKytqtPLZzI8cLjcUwPhzujbRrtUs81Ss2h3V-n1I7VKZ5FPHMz11lTocUtM~qSyFA__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
 ### 5.1 SLA vs. XLA: La Nueva Dualidad de Medición
 
-| Dimensión | SLA | XLA |
-|---|---|---|
-| **Qué mide** | Estándares mínimos de entrega del servicio | Experiencia y satisfacción real del usuario |
-| **Métricas** | Tiempo de respuesta, uptime, MTTR, tasa de resolución | Satisfaction score, sentiment, effort score, friction |
-| **Foco** | Cumplimiento de proceso | Resultado percibido por el empleado |
-| **Limitación** | Un SLA cumplido ≠ usuario satisfecho | Más difícil de medir cuantitativamente |
 
-El marco práctico de reporte combina 4 capas: confiabilidad operacional (SLA, MTTR), eficiencia del service desk (FCR, costo/ticket), experiencia (CSAT, effort score, sentimiento) e impacto de negocio (pérdida de productividad, ROI) ([SMC Consulting](https://www.smcconsulting.be/news/sla-vs-xla-itsm-reporting)).
+### SLA vs. XLA — Comparativa Visual y 4 Capas de Reporte
+
+![SLA vs. XLA — Comparativa y 4 capas de reporte ejecutivo](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/a3ec1ac8-586a-4b64-a4c7-b84284b3c388/svg7_sla_xla.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvYTNlYzFhYzgtNTg2YS00YjY0LWE0YzctYjg0Mjg0YjNjMzg4L3N2Zzdfc2xhX3hsYS5wbmc~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MzcyMzY5OX19fV19&Signature=JTNgihDHy96DdR~UUNkgXZ7NwlF1m6J6nbOtR~IUFPDOqkgWV6DQmMin4QhqObkE8mSxWQlOQHQTxGQwV8IAVTsR2baz9bTfvoB-aqS15lpEqapZZEcj4e9W-pNj10pCC~Y0csv30HM9kaOHDpzxm7BNvTQYb9odz9n4Fv9OVBvw25a5Ax8KvhrUG5pgWKXLfxfzvmkTGD5rZaT8znOd~FsVlMZNd7tBYFOo4TRnvEmSlo8V4acIfKDYpfNFRYygrzCoObGlmmED2aAVJ9m-9HlUze88mgWM5wf2MxCKR~WvFQcsG-uSN9WNci9gAoNP7QDr-9GiLaNL~eT34OcDAQ__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
+
 
 ### 5.2 XLA en la Práctica: Del Hype a la Madurez (2025-2026)
 
@@ -373,6 +435,17 @@ Con base en la evidencia de Gartner, ITIL (Version 5), HDI, Forrester y el anál
 | **Nivel 3** | **Proactivo** | Shift-left habilitado. N0 funcional. Automatización de tareas repetitivas. Gestión de problemas activa. Knowledge Management estructurado (KCS). Modelo de gobierno operativo. | FCR ≥75%; MTTR 4–8h; deflection 20–35%; autoservicio activo; KCS implementado; gobierno del servicio formal |
 | **Nivel 4** | **Predictivo** | IA integrada. AIOps con detección de anomalías y correlación de incidentes. GenAI para agentes. XLA medidos junto a SLA. DEX monitoreado. Observabilidad activa. | FCR ≥80%; MTTR <4h; deflection 35–55%; CSAT ≥88%; XLA medidos; prevención de hasta 30% de P1 |
 | **Nivel 5** | **Autónomo** | Agentes de IA que resuelven de extremo a extremo. Operación autónoma de infraestructura. Knowledge Hub con IA generativa. Remediación proactiva. Modelo económico basado en outcomes. | FCR ≥85%; MTTR <2h; deflection ≥55%; CSAT ≥92%; >50% incidentes resueltos sin agente humano; costo/ticket N0 dominante |
+
+
+---
+
+### Modelo de Madurez — Escalera Visual
+
+![Modelo de Madurez Gen Next — 5 Niveles (escalera visual)](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/112f5b50-2a31-4452-8e67-0955a86dcb27/svg3_madurez.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvMTEyZjViNTAtMmEzMS00NDUyLThlNjctMDk1NWE4NmRjYjI3L3N2ZzNfbWFkdXJlei5wbmc~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MzcyMzY5OX19fV19&Signature=DXZJYRcSz7CXaDta-cVamfStsBABUC3RblkUPIRUCU6ZKcmMP~ALz3znwE~ET~hAYaArJ4W51~egOHIts0a9pbS8~dcFst64O6Z9~J8njtf0xXTP6-q7ZQC2kxWmmjx1MYtoWSq7905hpEWc53CP3OL5yQWclUBHcomM1UIIYVpwRatqWLSDjhdv--2rmnKHMdboPK0f4FJS2eSVqBMp8nUjKarnJSC7XNxQg~yKPHJPsFyUAPHfXCH0IZ3~szVV-r~IotjL1kOW251~5mzmvUpgbDngR~yxl-7V9q0aD9o079KyvtElrdTF0I1J9l0-azjgihk43RvtNXnKbJ2NYA__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
+
 
 ### 6.2 Las 14 Dimensiones de Evaluación
 
@@ -516,6 +589,16 @@ Con base en el análisis comparativo del mercado, la oferta **Mesa de Servicios 
 | **Medición de valor** | SLA de cumplimiento | SLA + XLA + DEX + impacto económico |
 | **Evolución** | Estático; cambios reactivos | Roadmap vivo; evolución continua; backlog de mejoras |
 
+
+---
+
+### Agentic AI: Estado Real de Adopción 2025–2026
+
+![Agentic AI — Estado de adopción 2025-2026 y casos de éxito](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/955a3847-9ef4-43e5-9040-5ca93869731c/svg8_agentic_ai.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvOTU1YTM4NDctOWVmNC00M2U1LTkwNDAtNWNhOTM4Njk3MzFjL3N2ZzhfYWdlbnRpY19haS5wbmc~KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MzcyMzY5OX19fV19&Signature=eFBbY1sNU-j-gtulGP-NJH1oGVGZ2IZ~23sWa3fljH8UEceDkWR9vgmAGKF3DcqKqMq-p0OXe-5ZKGd0SN4hwl6kkuekL9CGNJRhurEqy7F0vo8QZEKSYYQQ~ZaHvRLILZkQWcA~crJ9nolbAzACE78mdDQaUPlumcZkJGRPUSYhv-7ZPYWKdAfsLOx~cfgaG5csS0OBbEWUs8VJyL9GG2veIDFs8yYA1UZlig0wSM9vXzBoGHS9wKpHc~0MlzWvcRfBeq8NsZaUtJFWQbnGyQ1u9ghRyVK9lGw4Q8Xkp6nWQxsD0pM-UGiqmfkYBLG7Mkm6oOdIpgGgom~UDh2Xyg__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
+
 ---
 
 ## 9. Tendencias Estratégicas 2024–2026
@@ -590,6 +673,17 @@ Para el mercado colombiano y latinoamericano en particular, la oportunidad tiene
 | **Colombia (IT Services, categoría amplia)** | — | — | 9.8% — el más rápido de Sudamérica | [Mordor Intelligence — South America ITSM Market](https://www.mordorintelligence.com/industry-reports/south-america-information-technology-service-management-itsm-market) |
 
 El reporte de Mordor Intelligence sobre Sudamérica identifica a Colombia como un mercado secundario relevante en múltiples factores de crecimiento: digitalización empresarial en banca, retail y telecomunicaciones (junto a Brasil y Argentina); necesidad de experiencias de servicio en español y portugués; interés creciente en modelos de entrega centralizada de servicios para operaciones distribuidas; y expansión de modelos de soporte de TI tercerizado entre firmas medianas ([Mordor Intelligence — South America ITSM Market](https://www.mordorintelligence.com/industry-reports/south-america-information-technology-service-management-itsm-market)). El mismo reporte destaca que **"Colombia está recibiendo impulso desde la facturación electrónica, la actividad 5G y la presencia multinacional en Bogotá, lo que está elevando el interés en plataformas de servicio estructuradas"**.
+
+
+---
+
+### Oportunidad de Mercado: Colombia y Latinoamérica
+
+![Oportunidad de Mercado — Colombia y Latinoamérica ITSM](https://d2z0o16i8xm8ak.cloudfront.net/d93eac35-3c61-4da0-96a8-ed5148a1ce99/c30880f8-19c2-4f0b-b5e9-c64b42cc6d05/svg9_colombia_latam.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC9kOTNlYWMzNS0zYzYxLTRkYTAtOTZhOC1lZDUxNDhhMWNlOTkvYzMwODgwZjgtMTljMi00ZjBiLWI1ZTktYzY0YjQyY2M2ZDA1L3N2ZzlfY29sb21iaWFfbGF0YW0ucG5nPyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODM3MjM2OTl9fX1dfQ__&Signature=Ca4NAnMIpaDY4s6yOL-g6vEZ4wGF-oPP2VAAfipXDGoM3QOpOB2qzd70MtWZ1FCUZ6M4zp3qpdXtG9Qa99AiNjgmv3pKXQtmGi51tuvUFBvtmRFYzf0MuoINm8umclKs-N0UrEkoLa~VKHO6o1pZOB8-1U0~AKqQbCU~MVBeBP35xbEntx7rRm9la0~0Tf6OgOP4KBrXsZV-W6UVPCbDl8IdOEWjCLEjkzjAqgLaqZNClu2leR-lFoKDskWdKC-eKigG8Vhw0Vr8foR3pfhC9TVZ3uUwIrc82rsvOJnMEfrZU2lrGy9Qts-k~AbFEAa8wtCAwYAlCu9z9bug~xkXuA__&Key-Pair-Id=K1BF7XGXAIMYNX)
+
+---
+
+
 
 ### 11.2 Colombia ITSM: Composición del Mercado
 
