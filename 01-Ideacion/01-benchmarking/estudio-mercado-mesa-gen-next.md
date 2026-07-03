@@ -1,7 +1,6 @@
 # Estudio de Mercado: Mesa de Servicios de Próxima Generación (Gen Next)
 ## Investigación Estratégica para el Diseño del Framework de Assessment y la Oferta Diferenciada
-
-*Documento de investigación estratégica con fuentes citadas. Elaborado: julio de 2026.*
+*Documento v2.0 — Julio 2026. Actualizado con ITIL (Version 5), mercado Colombia/Latam, pricing outcome-based, XLA y agentic AI.*
 
 ---
 
@@ -13,9 +12,12 @@ Los hallazgos clave de esta investigación son:
 
 - **Gartner retiró el Magic Quadrant de plataformas ITSM en 2023** por "comoditización", y en 2024 lanzó un nuevo cuadrante específico para **AI Applications in ITSM** — señal inequívoca de que la diferenciación ya no está en la plataforma, sino en la inteligencia que la habilita ([InvGate](https://blog.invgate.com/itsm-gartner-magic-quadrant)).
 - **Los 12 grandes proveedores** han convergido hacia el mismo mensaje: "AI-first", agentes virtuales, XLA sobre SLA y remediación autónoma. La diferenciación real está en la plataforma propietaria, la profundidad de la IA y la madurez del modelo de gobierno.
-- **ITIL 4** reemplazó el concepto de proceso por el de práctica y value stream, y posiciona el **shift-left** y la automatización como principios rectores, no como opciones.
+- **ITIL ya está en su Version 5**, lanzada oficialmente el 12 de febrero de 2026 por PeopleCert, y reemplaza el concepto de Service Value Chain por un ciclo de vida de 8 etapas (Discover→Design→Acquire→Build→Transition→Operate→Deliver→Support), consolida el marco DPSM (Digital Product and Service Management) y establece un modelo formal de gobernanza de IA ([Tideline Insights](https://www.tidelineinsights.com/blog/itil-5-whats-coming.html)) ([Rixmind](https://rixmind.com/itil-5-what-changed-and-why-it-matters/)).
 - **HDI** ofrece el marco de certificación y métricas de referencia más estructurado de la industria, con benchmarks de FCR, MTTR, CSAT y costo por ticket que permiten comparar objetivamente la madurez de cualquier mesa.
 - El **mercado de plataformas ITSM** está dominado por ServiceNow (44.4% de cuota), y la batalla competitiva se libra en la capa de IA agéntica, AIOps y experiencia del empleado (DEX).
+- El **68% de las empresas planea adoptar Experience Level Agreements (XLA) en 2026**, con expansión de esta disciplina más allá de TI hacia salud, RR.HH. y finanzas, según el primer reporte global "State of XLA 2025" del XLA Institute ([EIN Presswire](https://www.einpresswire.com/article/823090394/xla-institute-releases-groundbreaking-state-of-xla-2025-report?code=9Hv3x5D-vwZo-peK)).
+- La **agentic AI** pasó de la experimentación a la producción, pero con matices importantes: 51% de las empresas ya tiene agentes de IA desplegados de alguna forma, pero solo el 11% opera en producción plena, mientras Gartner proyecta que más del 40% de los proyectos de IA agéntica serán cancelados hacia fines de 2027 por costos, gobernanza o valor de negocio poco claro ([Brilo AI, vía G2/OneReach.ai y Gartner](https://www.brilo.ai/resources/agentic-ai-statistics)).
+- El **mercado ITSM en Colombia** está valuado en aproximadamente USD 108.5 millones en 2026 y crecerá a una tasa del 14.08% CAGR hasta 2031, impulsado por adopción cloud (63.45%), un sector de servicios que crece más rápido (13.82% CAGR) que el de soluciones, y un ecosistema financiero que ya usa IA en el 81% de sus establecimientos de crédito ([Mordor Intelligence Colombia ITSM](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market)) ([Superintendencia Financiera de Colombia](https://www.superfinanciera.gov.co/publicaciones/10116043/sistema-financiero-acelera-implementacion-de-canales-digitales/)).
 
 ---
 
@@ -99,41 +101,68 @@ En la edición **2025**, ServiceNow fue el único Líder del cuadrante, y se inc
 
 **Gartner Hype Cycle for ITSM 2025:** Las innovaciones más nuevas son *agent-native I&O*, *natural language case extraction* y *AI-powered IT agent advisory*. "ITSM platforms" fue retirado del Hype Cycle por alcanzar estatus *mainstream*, confirmando la comoditización ([Faddom/Gartner Hype Cycle ITSM 2025](https://faddom.com/wp-content/uploads/2026/03/2025-Hype-Cycle-for-ITSM-Gartner-Report.pdf)).
 
-### 2.2 ITIL 4: El Marco Fundacional Renovado
+### 2.2 ITIL (Version 5): La Evolución hacia DPSM y Gobernanza de IA
 
-ITIL 4 fue "una completa reimaginación" de ITIL v3, diseñada también para aplicarse fuera de TI ([ManageEngine](https://www.manageengine.com/products/service-desk/itsm/what-is-itil-4.html)).
+El nombre oficial correcto del nuevo marco es **"ITIL (Version 5)"** — no "ITIL 5" — y fue lanzado por **PeopleCert**, que absorbió completamente la marca Axelos y es ahora el único organismo rector de ITIL, PRINCE2 y marcos relacionados ([Tideline Insights](https://www.tidelineinsights.com/blog/itil-5-whats-coming.html)). PeopleCert enfatiza que la actualización **"no es un reinicio"**: el conocimiento, la experiencia y las certificaciones ITIL 4 existentes "permanecen totalmente vigentes", y ITIL 4 sigue disponible como ruta de certificación para quienes deseen continuarla ([PeopleCert — ITIL Version 5 Explained](https://www.peoplecert.org/news-and-announcements/itil-version-5-explained)).
 
-**Comparación ITIL v3 vs. ITIL 4:**
+**Timeline oficial de lanzamiento:**
 
-| Dimensión | ITIL v3 (2011) | ITIL 4 |
-|---|---|---|
-| Propósito | Mejores prácticas de ITSM | Creación/co-creación de valor de negocio |
-| Estructura | Basada en procesos | Prácticas de gestión (*management practices*) |
-| Marco organizacional | Cuatro Ps (people, processes, product, partners) | Cuatro dimensiones de la gestión de servicios |
-| Modelo de entrega | Service lifecycle | Service Value Chain + Value Streams |
-| Mejora continua | Publicación separada (CSI) | Práctica de gestión integrada |
-
-*(Fuente: [ManageEngine](https://www.manageengine.com/products/service-desk/itsm/what-is-itil-4.html))*
-
-**Las 4 Dimensiones de ITIL 4 aplicadas al Service Desk:**
-
-| Dimensión | Aplicación al Service Desk |
+| Fecha | Hito |
 |---|---|
-| Organizations & People | Cultura alineada; capacidad y competencia del personal |
-| Information & Technology | Datos, conocimiento y tecnologías para la gestión efectiva |
-| Partners & Suppliers | Proveedores que diseñan, despliegan y mejoran servicios |
-| Value Streams & Processes | Trabajo integrado entre partes de la organización |
+| 29 de enero de 2026 | Anuncio oficial de ITIL (Version 5) |
+| 12 de febrero de 2026 | Lanzamiento del examen ITIL (Version 5) Foundation |
+| 26 de febrero de 2026 | Lanzamiento del Foundation Bridge para poseedores de ITIL 4 (examen de actualización enfocado en el 36% de contenido nuevo y el modelo de ciclo de vida actualizado) |
+| 19 de marzo de 2026 | Publicación del módulo ITIL Experience |
+| 26 de marzo de 2026 | Publicación del módulo ITIL Product |
+| 2 de abril de 2026 | Publicación del módulo ITIL Service |
+| 9 de abril de 2026 | Publicación de ITIL Strategy / ITIL Transformation |
+| 14 de mayo de 2026 | Publicación de los módulos MPT (Managing Professional Transition) restantes |
 
-**Los 7 Principios Rectores de ITIL 4** relevantes para el diseño Gen Next:
-- *Focus on value* — todo diseño parte del valor al usuario
-- *Start where you are* — evaluar el estado actual antes de transformar
-- *Progress iteratively with feedback* — roadmap por fases con aprendizaje continuo
-- *Keep it simple and practical* — no más proceso del necesario
-- **Optimize and automate** — optimizar primero, luego automatizar
+*(Fuentes: [Tideline Insights](https://www.tidelineinsights.com/blog/itil-5-whats-coming.html), [Rixmind](https://rixmind.com/itil-5-what-changed-and-why-it-matters/))*
 
-*(Fuente: [ManageEngine](https://www.manageengine.com/products/service-desk/itsm/what-is-itil-4.html), [ServiceNow ITIL4 PoV](https://www.servicenow.com/community/s/cgfwn76974/attachments/cgfwn76974/it-service-management-kb/1380/1/ServiceNow-Whitepaper-ITIL4_PoV-102519.pdf))*
+**Composición del contenido:** ITIL (Version 5) se compone de **40% de contenido retenido directamente de ITIL 4, 24% de contenido actualizado o mejorado y 36% completamente nuevo** ([Tideline Insights](https://www.tidelineinsights.com/blog/itil-5-whats-coming.html)) ([Rixmind](https://rixmind.com/itil-5-what-changed-and-why-it-matters/)).
 
-**Shift-Left en ITIL 4 (CDS):** Es "un enfoque de gestión del trabajo que mueve las actividades más cerca de la fuente del trabajo, para evitar retrasos o escalamientos potencialmente costosos" ([Axelos](https://www.axelos.com/resource-hub/white-paper/shift-left-move-closer-to-the-source-with-itil-devops)). Sus tres habilitadores: autoservicio, gestión del conocimiento y automatización. Se define y desarrolla en **ITIL 4 Specialist: Create, Deliver and Support (CDS)** ([Axelos](https://www.axelos.com/resource-hub/white-paper/shift-left-move-closer-to-the-source-with-itil-devops)).
+**El nuevo ciclo de vida de 8 etapas — Product and Service Lifecycle:** Reemplaza la Service Value Chain de ITIL 4 dentro del Service Value System (SVS), que se mantiene y se actualiza:
+
+1. **Discover** — identificación de necesidades de negocio, oportunidades y señales de demanda (formaliza lo que ITIL 4 dejaba implícito)
+2. **Design** — traducción de necesidades a especificaciones y arquitecturas de servicio
+3. **Acquire** — obtención de componentes (tecnología, personas, proveedores); etapa explícita nueva
+4. **Build** — desarrollo o configuración de los componentes del servicio, incluyendo configuración de agentes de IA en entornos AI-native
+5. **Transition** — paso del servicio de desarrollo a operación en vivo
+6. **Operate** — ejecución del servicio en producción (incident management, request fulfilment, event management se retienen íntegramente)
+7. **Deliver** — formaliza la realización y demostración del valor como fase explícita del ciclo de vida, con obligaciones de medición propias
+8. **Support** — sostenimiento del servicio, incluyendo mejora continua embebida en el ciclo de vida (antes era una pista paralela)
+
+*(Fuente: [Tideline Insights](https://www.tidelineinsights.com/blog/itil-5-whats-coming.html))*
+
+**De ITSM a DPSM:** ITIL (Version 5) amplía el marco hacia la **Digital Product and Service Management (DPSM)**, unificando la gestión de productos digitales, aplicaciones, plataformas y APIs junto con los servicios de TI tradicionales — reflejando que muchas organizaciones ya gestionan estos elementos de forma convergente ([Rixmind](https://rixmind.com/itil-5-what-changed-and-why-it-matters/)).
+
+**El 6C AI Capability Model:** Es el elemento donde se concentra la mayor parte del contenido genuinamente nuevo (36%). PeopleCert lo introduce como marco para que las organizaciones de TI construyan y gobiernen capacidades de IA dentro de la gestión de servicios, sirviendo como herramienta de auditoría retrospectiva para quienes ya usan IA en triage, agentes virtuales o analítica predictiva, y como hoja de ruta para quienes recién comienzan ([Tideline Insights](https://www.tidelineinsights.com/blog/itil-5-whats-coming.html)). Los 6 componentes son:
+
+| Componente | Descripción |
+|---|---|
+| **Creation** | Generación de nuevo contenido, configuraciones o soluciones usando IA |
+| **Curation** | Filtrado, organización y mantenimiento de outputs generados o asistidos por IA |
+| **Clarification** | Uso de IA para interpretar solicitudes ambiguas o extraer intención de datos ruidosos |
+| **Cognition** | Análisis impulsado por IA, reconocimiento de patrones y soporte a la decisión |
+| **Communication** | Interacciones mediadas por IA entre usuarios y sistemas de gestión de servicios |
+| **Coordination** | Orquestación de agentes de IA y actores humanos a través de flujos de trabajo de servicio |
+
+El modelo incluye además obligaciones explícitas de gobernanza: responsabilidad sobre los outputs de IA, requisitos de transparencia para decisiones mediadas por IA, y rutas de escalamiento cuando falla la coordinación entre agentes ([Tideline Insights](https://www.tidelineinsights.com/blog/itil-5-whats-coming.html)). Adicionalmente, **AI Governance** se instituye como el único módulo de extensión independiente dentro del nuevo esquema de certificación, junto a **ITIL Experience**, que se separa como disciplina propia con su propia base de conocimiento ([Rixmind](https://rixmind.com/itil-5-what-changed-and-why-it-matters/)).
+
+**Qué se mantiene igual:**
+
+| Elemento | Estado en ITIL (Version 5) |
+|---|---|
+| Los 7 Guiding Principles (Focus on Value, Start Where You Are, Progress Iteratively with Feedback, Collaborate and Promote Visibility, Think and Work Holistically, Keep It Simple and Practical, Optimize and Automate) | Se mantienen sin cambios |
+| Four Dimensions of Service Management | Se conservan, actualizadas para reflejar contextos de IA y digitales |
+| Service Value System (SVS) | Se retiene y actualiza, no se reemplaza |
+| Las 34 prácticas de ITIL 4 | Se retienen todas; 5 son recategorizadas, ninguna se elimina (ejemplos: Change Enablement, Incident Management, Problem Management) |
+| Certificaciones ITIL 4 existentes | Siguen siendo válidas |
+
+*(Fuentes: [PeopleCert — ITIL Version 5 Explained](https://www.peoplecert.org/news-and-announcements/itil-version-5-explained), [Tideline Insights](https://www.tidelineinsights.com/blog/itil-5-whats-coming.html), [Rixmind](https://rixmind.com/itil-5-what-changed-and-why-it-matters/))*
+
+**Implicación para el diseño Gen Next:** El **Shift-Left** que ITIL 4 desarrollaba en el módulo CDS (Create, Deliver and Support) permanece vigente como principio operativo — sus tres habilitadores (autoservicio, gestión del conocimiento y automatización) ahora se enmarcan explícitamente dentro del 6C AI Capability Model, particularmente en las dimensiones de Clarification y Coordination.
 
 ### 2.3 HDI: El Marco de Certificación y Métricas
 
@@ -297,11 +326,43 @@ Estos benchmarks son el insumo crítico para el Framework de Assessment: permite
 
 El marco práctico de reporte combina 4 capas: confiabilidad operacional (SLA, MTTR), eficiencia del service desk (FCR, costo/ticket), experiencia (CSAT, effort score, sentimiento) e impacto de negocio (pérdida de productividad, ROI) ([SMC Consulting](https://www.smcconsulting.be/news/sla-vs-xla-itsm-reporting)).
 
+### 5.2 XLA en la Práctica: Del Hype a la Madurez (2025-2026)
+
+El primer reporte global del **XLA Institute, "State of XLA 2025"**, presentado el 12 de junio de 2025, marca la transición de las XLA desde el discurso experimental hacia la práctica escalable: el **68% de las empresas encuestadas planea implementar XLAs en 2026** (algunas fuentes citan la cifra como "casi 70%"), y su adopción se expande rápidamente más allá de los departamentos de TI tradicionales hacia salud, RR.HH. y finanzas — con Brasil emergiendo como uno de los mercados líderes en gestión de experiencia ([EIN Presswire](https://www.einpresswire.com/article/823090394/xla-institute-releases-groundbreaking-state-of-xla-2025-report?code=9Hv3x5D-vwZo-peK)) ([Emerce](https://www.emerce.nl/wire/xla-institute-publiceert-state-xla-2025-rapport)).
+
+El reporte introduce el **Dynamic Experience Management Framework (DEMF)**, que define dos ejes de madurez: madurez de capacidad y madurez de creación de valor acumulativo ("accretive value creation"). Entre sus hallazgos: las organizaciones exitosas construyen su gestión de experiencia alrededor de personas (personas-based), la Digital Employee Experience (DEX) y las XLA convergen para sostener tanto a empleados como resultados de negocio, y las XLA desplazan el foco de la resolución reactiva de problemas hacia la habilitación proactiva del éxito del usuario ([LinkedIn — Alan Nance, XLA Institute](https://www.linkedin.com/posts/alannance_get-your-copy-of-the-state-of-xla-2025-published-activity-7340670233575079936-XZ3Q)).
+
+**El dashboard de 4 capas para reporte ejecutivo SLA/XLA**, propuesto por SMC Consulting, organiza las métricas de la siguiente manera:
+
+| Capa | Métricas incluidas | Propósito |
+|---|---|---|
+| **1. Confiabilidad operacional** | Disponibilidad, cumplimiento de SLA, MTTR, incidentes mayores, tasa de éxito de cambios | Confirma si los servicios de TI son estables y predecibles |
+| **2. Eficiencia del service desk** | Volumen de tickets, FCR, backlog, costo por ticket, adopción de autoservicio | Muestra si el soporte es eficiente y escalable |
+| **3. Experiencia de usuario** | Satisfacción, effort score, sentimiento, experiencia por canal, experiencia del journey | Muestra si los usuarios tienen una experiencia positiva y de baja fricción |
+| **4. Impacto de negocio** | Pérdida de productividad, impacto por unidad de negocio, exposición a riesgo, beneficios de mejora, evitación de costos, ROI | Conecta el desempeño de ITSM con el valor de negocio |
+
+*(Fuente: [SMC Consulting](https://www.smcconsulting.be/news/sla-vs-xla-itsm-reporting))*
+
+**El proceso de 8 pasos para la transición de SLA a XLA:**
+
+1. Auditar las métricas actuales de SLA e ITSM: identificar qué se mide, quién usa cada reporte y qué decisión soporta cada métrica
+2. Comparar el desempeño operacional con la satisfacción: buscar resultados de SLA en verde con baja satisfacción o alto esfuerzo
+3. Definir las experiencias más importantes: comenzar por journeys como onboarding, solicitud de ayuda, solicitud de accesos, trabajo remoto y recuperación de incidentes mayores
+4. Seleccionar medidas de XLA significativas: satisfacción, esfuerzo, tiempo a la productividad, adopción, sentimiento y confiabilidad percibida
+5. Agregar mecanismos de feedback: encuestas cortas, encuestas de journey y análisis de texto libre
+6. Integrar el reporte de experiencia al dashboard de KPI de ITSM, mostrando XLA junto a SLA
+7. Alinear el reporte ejecutivo de ITSM con los resultados de negocio: liderar con salud del servicio, experiencia de usuario, riesgo e impacto de negocio
+8. Revisar y refinar las métricas regularmente: retirar KPIs de bajo valor y ajustar umbrales conforme madura el modelo
+
+*(Fuente: [SMC Consulting](https://www.smcconsulting.be/news/sla-vs-xla-itsm-reporting))*
+
+**Herramientas del mercado:** Entre las plataformas especializadas en la medición de XLA y experiencia digital destacan **Nexthink**, que promueve explícitamente el tránsito "de SLA a XLA" mediante puntuaciones basadas en el sentimiento del usuario final y la salud del lugar de trabajo digital ([Nexthink](https://nexthink.com/resource/from-sla-to-xla-rethinking-end-user-kpis)), y **HappySignals**, ambas orientadas a conectar indicadores de experiencia, operacionales y técnicos en un único stack de medición.
+
 ---
 
 ## 6. Modelo de Madurez Propio: Mesa Gen Next
 
-Con base en la evidencia de Gartner, ITIL 4, HDI, Forrester y el análisis de los 12 grandes proveedores, se propone el siguiente **Modelo de Madurez para la Mesa de Servicios Gen Next**. Este modelo sintetiza los marcos de referencia de la industria y agrega dimensiones propias derivadas del análisis comparativo.
+Con base en la evidencia de Gartner, ITIL (Version 5), HDI, Forrester y el análisis de los 12 grandes proveedores, se propone el siguiente **Modelo de Madurez para la Mesa de Servicios Gen Next**. Este modelo sintetiza los marcos de referencia de la industria y agrega dimensiones propias derivadas del análisis comparativo.
 
 ### 6.1 Los 5 Niveles de Madurez
 
@@ -473,6 +534,30 @@ Las siguientes tendencias son las más relevantes para el diseño del portafolio
 
 6. **Observabilidad como diferenciador:** La mesa que detecta y resuelve antes del reporte del usuario se vuelve invisible para el negocio — en el mejor sentido del término ([ServiceNow whitepaper](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/white-paper/the-essentials-of-predictive-aiops-and-visibility.pdf)).
 
+7. **Agentic AI: del experimento a producción (con matices).** El año 2025-2026 confirma que la IA agéntica dejó de ser un experimento de laboratorio, pero la brecha entre adopción y madurez real sigue siendo amplia:
+
+   | Indicador | Cifra | Fuente |
+   |---|---|---|
+   | Empresas con agentes de IA ya desplegados en alguna forma | 51% | [Brilo AI (vía G2/OneReach.ai)](https://www.brilo.ai/resources/agentic-ai-statistics) |
+   | Empresas en producción plena (vs. experimentación) | 11% (frente a 79% aún en experimentación) | [Brilo AI (vía Digital Applied)](https://www.brilo.ai/resources/agentic-ai-statistics) |
+   | Proyectos de IA agéntica cancelados hacia fin de 2027 | >40%, por costos, gobernanza o valor de negocio poco claro | [Gartner, vía Brilo AI](https://www.brilo.ai/resources/agentic-ai-statistics) |
+   | Barreras principales para producción de IA agéntica | Seguridad/privacidad/cumplimiento (52%); complejidad técnica de gestión a escala (51%); falta de personal capacitado (44%) | [Dynatrace — Pulse of Agentic AI 2026](https://www.dynatrace.com/news/press-release/pulse-of-agentic-ai-2026/) |
+   | Proyectos en producción para casos de uso limitados / adopción amplia por departamento / integración madura enterprise-wide | 50% / 44% / 23% | [Dynatrace — Pulse of Agentic AI 2026](https://www.dynatrace.com/news/press-release/pulse-of-agentic-ai-2026/) |
+
+   Casos documentados de adopción en producción confirman el potencial cuando la implementación es madura: **Robinhood** desplegó agentes de IA sobre ServiceNow logrando un **70% de deflección de casos entre IT, HR y Legal, con 2.200+ horas de esfuerzo manual eliminadas cada mes** y 94% de satisfacción de empleados ([Sityos AI](https://sityos.com/en/use-cases/servicenow-ai-agents-90-it-tickets-resolved-500m-saved)) ([LinkedIn — Nolan Morgan](https://www.linkedin.com/posts/nolan-morgan_ai-enterpriseai-servicenow-activity-7454942169922101248-_f3w)); **Honeywell** logró una **reducción del 80% en el volumen de tickets** entrantes tras introducir un copiloto de IA (Moveworks) para su help desk ([Yahoo Finance](https://finance.yahoo.com/news/why-honeywell-placed-big-bet-163944142.html)); y **Salesforce**, usando su propia plataforma Agentforce, resolvió de forma autónoma el **84% de 380.000 interacciones de soporte** en 90 días, con solo 2% de escalamiento a humanos ([Clientell — Dreamforce 2025 Keynote](https://www.getclientell.com/salesforce-blogs/dreamforce-2025-keynote-7-agentforce-takeaways)) ([Salesforce Newsroom](https://www.salesforce.com/news/stories/agentforce-customer-support-lessons-learned/)).
+
+   Los benchmarks de mercado para service desks con IA agéntica muestran mejoras sustanciales sobre el modelo tradicional: **FCR de 75-85% frente a 40-55% en desks tradicionales**, **reducción de MTTR de 60-70%**, y **costo por interacción de USD 3-8 frente a USD 15-25** en modelos gestionados por humanos ([CallSphere](https://callsphere.ai/blog/agentic-ai-service-desk-autonomous-it-ticket-resolution-2026)).
+
+   Sin embargo, la gobernanza sigue siendo el eslabón más débil: solo una fracción de las organizaciones reporta contar con **gobernanza madura** de IA agéntica, y la mayoría **sigue verificando decisiones críticas con supervisión humana** — ServiceNow, por ejemplo, documenta explícitamente que su "agentic workforce" requiere "gobernanza fuerte, responsabilidades claramente definidas, seguimiento de desempeño y supervisión de gerentes humanos" como condición para escalar ([ServiceNow Newsroom](https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-Extends-End-to-End-AI-Agent-Orchestration-With-Agentic-Workforce-Management/default.aspx)).
+
+8. **Pricing hacia outcomes: el modelo económico cambia.** La evolución del pricing en service desk documentada por TCS muestra una progresión clara de cuatro fases: **FTE-based** (finales de los 90s/inicios de los 2000, pago por disponibilidad de recursos sin incentivos de desempeño) → **ticket-based** (pago por esfuerzo real, pero con estructuras de tarifas complejas por tipo de ticket) → **modelo híbrido** (combinación de tarifa fija por usuario/aplicación y pricing por ticket, a fines de los 2010) → **outcome-based** (alineado con KPIs y SLAs definidos por el cliente, vinculado directamente a resultados de negocio como mejor servicio al cliente y mayor uptime) ([TCS](https://www.tcs.com/insights/blogs/generative-ai-outcome-based-pricing-models-service-desk)).
+
+   La GenAI habilita este modelo mediante forecasting de demanda, facturación en tiempo real vinculada al consumo real, detección de anomalías en billing, y clasificación automática de complejidad de tickets para calibrar el pricing ([TCS](https://www.tcs.com/insights/blogs/generative-ai-outcome-based-pricing-models-service-desk)).
+
+   **Benchmarks de ROI en automatización ITSM:** el caso defensible de IA en ITSM logra un **payback de 4 a 9 meses**, considerando presupuestar entre 30-50% por encima de la cotización del proveedor y un costo operativo continuo de 20-30% del costo de construcción por año ([Kwestra](https://kwestra.com/insights/itsm-automation-roi)). En paralelo, el mercado más amplio de proyectos de IA agéntica muestra que **cerca del 19% de los proyectos nunca alcanza un ROI positivo** ([Brilo AI, vía Gartner 2026](https://www.brilo.ai/resources/agentic-ai-statistics)). La industria de servicios de TI está migrando hacia contratos outcome-based de forma acelerada: se proyecta que **cerca del 30% de los contratos de TI empresarial estarán estructurados bajo modelos outcome-based hacia 2029**, y los modelos de **shared savings** —donde el proveedor y el cliente comparten entre 15% y 25% del ahorro generado por la automatización— ganan tracción como mecanismo de transición entre el pricing tradicional y el outcome puro ([Economic Times](https://economictimes.indiatimes.com/tech/information-tech/it-scrambles-for-benchmarks-as-clients-eye-outcome-based-deals/articleshow/124199042.cms)).
+
+   La fórmula conceptual que sintetiza este modelo es simple pero exige datos maduros para calibrarse: **Costo del Servicio = Outcomes Logrados × Precio por Unidad de Outcome**, donde el "outcome" puede definirse como tickets resueltos con SLA cumplido, puntos de deflección alcanzados, o mejora medible en CSAT/XLA — desplazando el riesgo comercial del cliente hacia una responsabilidad compartida con el proveedor.
+
 ---
 
 ## 10. Conclusiones Estratégicas
@@ -485,9 +570,88 @@ La oportunidad del proyecto **Mesa de Servicios Gen Next** es real y está bien 
 - Los grandes proveedores venden "AI-first" pero pocos tienen un **framework de assessment** que permita al cliente medir su madurez y entender dónde está parado.
 - El modelo de madurez de 5 niveles propuesto en este documento, combinado con las 14 dimensiones de evaluación, ofrece un instrumento de caracterización que ninguno de los 12 grandes tiene publicado en formato de oferta comercial.
 - Los benchmarks de FCR, MTTR, CSAT, deflección y costo por ticket son los criterios objetivos que permiten demostrar el valor diferencial de una Mesa Gen Next en cualquier conversación de preventa.
+- La llegada de ITIL (Version 5) con su 6C AI Capability Model y el marco DPSM confirma que la gobernanza de IA ya no es opcional en el diseño de una mesa de servicios madura — es, junto con las XLA y el pricing outcome-based, uno de los tres pilares regulatorios y comerciales que definirán la próxima generación de contratos de servicio.
 
 El siguiente paso natural — el **Assessment AS-IS** del roadmap de julio — tiene ahora una base de evidencia sólida, un modelo de madurez propio y un set de preguntas de caracterización listas para ser aplicadas.
 
+Para el mercado colombiano y latinoamericano en particular, la oportunidad tiene una ventana temporal concreta: Colombia lidera la velocidad de crecimiento de servicios de TI en Sudamérica, el sector financiero ya opera con adopción de IA por encima del 80% en establecimientos de crédito, y el segmento de servicios ITSM (13.82% CAGR) crece más rápido que el de soluciones licenciadas — lo cual favorece directamente una oferta de consultoría y assessment como la que este estudio fundamenta, en un mercado donde Aranda Software es, hasta la fecha, el único competidor local de relevancia identificado frente a la oleada de plataformas globales que están expandiendo presencia formal en la región.
+
 ---
 
-*Documento elaborado con base en fuentes primarias consultadas en julio de 2026: Gartner, ITIL/Axelos, HDI, Forrester, Everest Group, ISG, y páginas oficiales de Accenture, IBM, Kyndryl, Deloitte, Capgemini, Cognizant, HCLTech, Infosys, TCS, NTT DATA, DXC y Wipro, así como ServiceNow, BMC, Ivanti, Atlassian, Freshworks y ManageEngine.*
+## 11. Mercado ITSM en Colombia y Latinoamérica
+
+### 11.1 Tamaño de Mercado: Latam, Sudamérica y Colombia
+
+| Alcance geográfico | Tamaño actual | Proyección | CAGR | Fuente |
+|---|---|---|---|---|
+| **América Latina (ITSM)** | USD 1.8 mil millones (2024) | USD 2.5 mil millones (2028) | 12% anual | [InvGate](https://blog.invgate.com/es/mercado-de-itsm-en-latam) |
+| **Sudamérica (ITSM)** | USD 0.52 mil millones (2025) | USD 1.26 mil millones (2031) | 16.00% (2026-2031) | [Mordor Intelligence — South America ITSM Market](https://www.mordorintelligence.com/industry-reports/south-america-information-technology-service-management-itsm-market) |
+| **Colombia (ITSM)** | USD 108.5 millones (2026) | USD 209.70 millones (2031) | 14.08% | [Mordor Intelligence — Colombia ITSM Market](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market) |
+| **Colombia (IT Services, categoría amplia)** | — | — | 9.8% — el más rápido de Sudamérica | [Mordor Intelligence — South America ITSM Market](https://www.mordorintelligence.com/industry-reports/south-america-information-technology-service-management-itsm-market) |
+
+El reporte de Mordor Intelligence sobre Sudamérica identifica a Colombia como un mercado secundario relevante en múltiples factores de crecimiento: digitalización empresarial en banca, retail y telecomunicaciones (junto a Brasil y Argentina); necesidad de experiencias de servicio en español y portugués; interés creciente en modelos de entrega centralizada de servicios para operaciones distribuidas; y expansión de modelos de soporte de TI tercerizado entre firmas medianas ([Mordor Intelligence — South America ITSM Market](https://www.mordorintelligence.com/industry-reports/south-america-information-technology-service-management-itsm-market)). El mismo reporte destaca que **"Colombia está recibiendo impulso desde la facturación electrónica, la actividad 5G y la presencia multinacional en Bogotá, lo que está elevando el interés en plataformas de servicio estructuradas"**.
+
+### 11.2 Colombia ITSM: Composición del Mercado
+
+| Segmento | Dato 2025/2026 | Detalle |
+|---|---|---|
+| **Cloud** | 63.45% de cuota | Modelo de despliegue dominante en el mercado colombiano |
+| **Service Desk e Incident Management** | 27.09% de cuota | Mayor categoría funcional dentro del ITSM colombiano |
+| **Knowledge Management** | 12.90% CAGR proyectado a 2031 | La categoría funcional de mayor crecimiento relativo |
+| **Soluciones (software licenciado)** | 61.40% de cuota (2025) | Sigue siendo la mayor porción del mercado en términos absolutos |
+| **Servicios (consultoría, implementación, gestión)** | 13.82% CAGR proyectado a 2031 | Crece más rápido que las soluciones — la oportunidad estructural para una oferta de servicios profesionales |
+
+*(Fuente: [Mordor Intelligence — Colombia ITSM Market](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market))*
+
+### 11.3 Competencia Local y Expansión de Plataformas Globales
+
+**Competidores locales:** **Aranda Software** es, según Mordor Intelligence, el actor local más relevante del mercado colombiano de ITSM, combinando raíces locales con certificaciones formales de proceso: renovó en agosto de 2025 su certificación **PinkVerify** para 11 procesos ITSM, incorporando capacidades de automatización avanzada y prácticas asistidas por IA alineadas con los estándares globales de ITIL ([Mordor Intelligence — Colombia ITSM Market](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market)). **InvGate**, de origen argentino, también tiene presencia relevante en la región, con reconocimiento de Gartner como proveedor representativo en su Market Guide y presencia en más de 50 países ([InvGate](https://blog.invgate.com/es/mercado-de-itsm-en-latam)).
+
+**Expansión de plataformas globales en la región:**
+
+- **BMC Helix** estableció una entidad legal formal en Brasil en octubre de 2025, señal de inversión directa creciente de los grandes vendors globales en Sudamérica.
+- **Ivanti** lanzó su producto Bpod en Sudamérica en junio de 2026, ampliando su huella comercial en la región.
+- **ManageEngine** está duplicando su headcount en Brasil como parte de su estrategia de expansión regional.
+
+*(Contexto de mercado, [Mordor Intelligence — South America ITSM Market](https://www.mordorintelligence.com/industry-reports/south-america-information-technology-service-management-itsm-market) y [Mordor Intelligence — Colombia ITSM Market](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market))*
+
+Otros vendors globales con presencia activa en el mercado colombiano incluyen ServiceNow, Atlassian, Freshworks y ManageEngine, listados por Mordor Intelligence como líderes de la industria en Colombia, junto con perfiles de compañía adicionales como Zoho, Microsoft, Broadcom, OpenText, SolarWinds, SysAid, EasyVista, TeamDynamix, Halo Service Solutions, TOPdesk, Serviceaide, Alemba y Efecte ([Mordor Intelligence — Colombia ITSM Market](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market)).
+
+### 11.4 Regulación Financiera Colombiana Relevante para ITSM
+
+El sector financiero colombiano, regulado por la **Superintendencia Financiera de Colombia (SFC)**, impone requisitos que impactan directamente el diseño de mesas de servicio y operaciones de TI en bancos, aseguradoras y otras entidades vigiladas:
+
+- **Circular Externa 007 (SFC):** Establece medidas mínimas para la administración del riesgo de ciberseguridad, exigiendo a las entidades vigiladas contar con un **Security Information and Event Management (SIEM)** para correlación de eventos, pruebas periódicas de planes de continuidad del negocio que simulen ciberataques, reporte de incidentes de ciberseguridad a la SFC y a las autoridades del modelo nacional de gestión de incidentes cibernéticos (con periodicidad de reporte de gestión al menos semestral), y procedimientos formales de respuesta y recuperación ante incidentes ([Circular 007 SFC, vía Scribd](https://es.scribd.com/document/478859956/Circular-007-SuperFinanciera)) ([Fundación Microfinanzas BBVA](https://www.fundacionmicrofinanzasbbva.org/revistaprogreso/instrucciones-entidades-vigiladas-ciberseguridad/)).
+
+- **Open Finance — plazo regulatorio:** El régimen de transición para los estándares mínimos del sistema de finanzas abiertas ha sido ampliado sucesivamente por la SFC: la Circular Externa 009 de 2025 extendió el plazo hasta febrero de 2026, y la Circular Externa 001 de 2026 (emitida el 3 de febrero) lo amplió nuevamente hasta el **8 de agosto de 2026**, dando a las entidades vigiladas un margen adicional para completar las modificaciones técnicas en sus sistemas de información ([Holland & Knight](https://www.hklaw.com/en/insights/publications/2026/02/sfc-amplia-el-plazo-para-que-entidades-en-colombia-se-ajusten)) ([El Ecosistema Startup](https://ecosistemastartup.com/open-finance-colombia-2026-5-acciones-para-tu-fintech/)).
+
+- **Adopción de IA en el sector financiero:** Según la propia SFC, en 2025 el **81% de los establecimientos de crédito colombianos ya utilizaba inteligencia artificial** en sus procesos, y el uso de canales digitales (Internet y aplicaciones móviles) pasó del **35.7% al 66.6% de las operaciones del sistema financiero entre 2021 y 2025** ([Superintendencia Financiera de Colombia](https://www.superfinanciera.gov.co/publicaciones/10116043/sistema-financiero-acelera-implementacion-de-canales-digitales/)).
+
+Estas obligaciones regulatorias —SIEM, continuidad operativa, reporte de incidentes cibernéticos y cumplimiento de Open Finance— crean una demanda estructural de capacidades de observabilidad, gestión de incidentes de alta madurez y gobernanza de IA que una Mesa de Servicios Gen Next, alineada al modelo de madurez y al 6C AI Capability Model de ITIL (Version 5), está en posición de atender directamente.
+
+### 11.5 Adopción de Agentic AI en Servicios Financieros y Seguros
+
+Los datos de adopción de IA agéntica por industria muestran que los sectores regulados de BFSI (Banca, Servicios Financieros y Seguros) están entre los más activos, aunque todavía por debajo de sectores tecnológicos puros:
+
+| Sector | Adopción Enterprise | Adopción Mid-Market | Adopción SMB | Promedio de Industria |
+|---|---|---|---|---|
+| **Servicios Financieros** | 29% | 22% | 13% | 22% |
+| **Seguros** | 28% | 20% | 15% | 18% |
+
+*(Fuente: [First Page Sage — Agentic AI Adoption Statistics 2026](https://firstpagesage.com/reports/agentic-ai-adoption-statistics/))*
+
+Esta adopción, combinada con el 81% de penetración de IA general en establecimientos de crédito colombianos reportado por la SFC, sugiere que el sector financiero colombiano —a diferencia de otros verticales de la región— ya cuenta con la madurez digital y regulatoria necesaria para adoptar mesas de servicio de próxima generación con componentes agénticos, siempre que estas cumplan con los requisitos de gobernanza, trazabilidad y reporte de incidentes exigidos por la SFC.
+
+### 11.6 Oportunidad para una Oferta de Professional Services (PS) en Colombia
+
+El cruce de evidencia recolectada en esta sección configura una oportunidad de mercado concreta:
+
+- **Colombia lidera la velocidad de crecimiento de IT Services en Sudamérica** (9.8% CAGR, el más alto de la región), lo cual valida una entrada temprana de una oferta diferenciada de mesa de servicios Gen Next ([Mordor Intelligence — South America ITSM Market](https://www.mordorintelligence.com/industry-reports/south-america-information-technology-service-management-itsm-market)).
+- **La adopción de IA en banca colombiana ya es alta** (81% de establecimientos de crédito), lo que reduce la fricción de venta de soluciones con componentes de IA agéntica y AIOps en el sector financiero, uno de los verticales más exigentes en gobernanza ([SFC](https://www.superfinanciera.gov.co/publicaciones/10116043/sistema-financiero-acelera-implementacion-de-canales-digitales/)).
+- **El mercado de servicios (13.82% CAGR) crece más rápido que el de soluciones licenciadas (61.4% de cuota pero menor crecimiento relativo)** en Colombia, lo que confirma que la demanda se está desplazando desde la compra de software hacia la contratación de consultoría, implementación y operación gestionada — exactamente el terreno donde compite una oferta de Assessment y Mesa Gen Next ([Mordor Intelligence — Colombia ITSM Market](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market)).
+- **Aranda Software es, hasta la fecha, el único competidor local de relevancia identificado** con certificación formal (PinkVerify) y capacidades de IA — el resto del panorama competitivo está compuesto por plataformas globales (ServiceNow, Atlassian, BMC Helix, Ivanti, ManageEngine, Freshworks) que compiten principalmente como proveedores de software, no como integradores de assessment y transformación de madurez ([Mordor Intelligence — Colombia ITSM Market](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market)).
+- La combinación de regulación exigente (Circular 007, Open Finance), presión de adopción de IA y un mercado de servicios en expansión acelerada crea una ventana comercial concreta para posicionar el Framework de Assessment y el Modelo de Madurez de 5 niveles descritos en este estudio como la oferta diferenciada frente a competidores que aún no publican metodologías de caracterización propias.
+
+---
+
+*Documento elaborado con base en fuentes primarias consultadas en julio de 2026: Gartner, PeopleCert/ITIL, HDI, Forrester, Everest Group, ISG, XLA Institute, Dynatrace, Mordor Intelligence, InvGate, Superintendencia Financiera de Colombia, y páginas oficiales de Accenture, IBM, Kyndryl, Deloitte, Capgemini, Cognizant, HCLTech, Infosys, TCS, NTT DATA, DXC y Wipro, así como ServiceNow, BMC, Ivanti, Atlassian, Freshworks, ManageEngine, Aranda Software, Salesforce y Robinhood.*
