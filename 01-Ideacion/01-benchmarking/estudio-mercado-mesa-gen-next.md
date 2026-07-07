@@ -1,5 +1,5 @@
 # Estudio de Mercado: Mesa de Servicios de Próxima Generación (Gen Next)
-## Investigación Estratégica para el Diseño del Framework de Assessment y la Oferta Diferenciada
+## Investigación Estratégica para el Diseño de una Mesa de Servicio de Nueva Generción
 *Documento v1.0 — Julio 2026. Actualizado con ITIL (Version 5), mercado Colombia/Latam, pricing outcome-based, XLA y agentic AI.*
 
 ---
@@ -17,7 +17,7 @@ Los hallazgos clave de esta investigación son:
 - El **mercado de plataformas ITSM** está dominado por ServiceNow (44.4% de cuota), y la batalla competitiva se libra en la capa de IA agéntica, AIOps y experiencia del empleado (DEX).
 - El **68% de las empresas planea adoptar Experience Level Agreements (XLA) en 2026**, con expansión de esta disciplina más allá de TI hacia salud, RR.HH. y finanzas, según el primer reporte global "State of XLA 2025" del XLA Institute ([EIN Presswire](https://www.einpresswire.com/article/823090394/xla-institute-releases-groundbreaking-state-of-xla-2025-report?code=9Hv3x5D-vwZo-peK)).
 - La **agentic AI** pasó de la experimentación a la producción, pero con matices importantes: 51% de las empresas ya tiene agentes de IA desplegados de alguna forma, pero solo el 11% opera en producción plena, mientras Gartner proyecta que más del 40% de los proyectos de IA agéntica serán cancelados hacia fines de 2027 por costos, gobernanza o valor de negocio poco claro ([Brilo AI, vía G2/OneReach.ai y Gartner](https://www.brilo.ai/resources/agentic-ai-statistics)).
-- El **mercado ITSM en Colombia** está valuado en aproximadamente USD 108.5 millones en 2026 y crecerá a una tasa del 14.08% CAGR hasta 2031, impulsado por adopción cloud (63.45%), un sector de servicios que crece más rápido (13.82% CAGR) que el de soluciones, y un ecosistema financiero que ya usa IA en el 81% de sus establecimientos de crédito ([Mordor Intelligence Colombia ITSM](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market)) ([Superintendencia Financiera de Colombia](https://www.superfinanciera.gov.co/publicaciones/10116043/sistema-financiero-acelera-implementacion-de-canales-digitales/)).
+- El **mercado ITSM (Gestión Integral de los Servicios de TI) en Colombia** está valuado en aproximadamente USD 108.5 millones en 2026 y crecerá a una tasa del 14.08% CAGR hasta 2031, impulsado por adopción cloud (63.45%), un sector de servicios que crece más rápido (13.82% CAGR) que el de soluciones, y un ecosistema financiero que ya usa IA en el 81% de sus establecimientos de crédito ([Mordor Intelligence Colombia ITSM](https://www.mordorintelligence.com/industry-reports/colombia-information-technology-service-management-itsm-market)) ([Superintendencia Financiera de Colombia](https://www.superfinanciera.gov.co/publicaciones/10116043/sistema-financiero-acelera-implementacion-de-canales-digitales/)).
 
 ---
 
