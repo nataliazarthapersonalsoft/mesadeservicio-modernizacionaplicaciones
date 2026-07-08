@@ -1,0 +1,106 @@
+Virginia Durango Muriel inició la transcripción
+VM
+
+Virginia Durango Muriel
+0 minutos 3 segundos0:03
+Virginia Durango Muriel 0 minutos 3 segundos
+Crecimiento precisamente de las mesas de Sura, donde precisamente alzamos las manos porque no teníamos como claridades en cosas de las que teníamos que empezar a determinar y al cliente si estábamos en capacidad o no de manejarle. Uno, el tema de los niveles listo. ¿Entonces, qué pasa con el tema de los niveles en las mesas de servicio? Normalmente se hablan nivel uno, nivel 2, nivel 3.
+Virginia Durango Muriel 0 minutos 26 segundos
+Cierto, o esas son por lo menos las que conocemos. Normalmente el nivel uno lo manejan directamente los clientes, porque nivel uno es muy focalizado como ese tema de las ayudas al negocio, mucho de regla de negocio funcional, mucho de que ay, venga, yo no sé cómo hacer la transacción, me explicas, entonces ellos van y ta ta ta.
+Virginia Durango Muriel 0 minutos 46 segundos
+Cierto, nivel 2, digamos que normalmente es un escalamiento que le hace el nivel uno, nivel 2, cuando posiblemente a nivel de proceso el proceso falla, pero el proceso hasta ahí no se sabe si ni siquiera hay que incluirle o inyectarle alguna mejora como tal desde la codificación, sino que seguramente hay que revisar un log.
+Virginia Durango Muriel 1 minuto 5 segundos
+Hay que hacer una un relanzamiento de algún proceso. Hay que entrar a la base de datos como para mirar de pronto información que en la visual no se ve, entonces para respuesta como ese tipo de cosas es las que nosotros normalmente atendemos. Listo, y el nivel 3 es cuando nosotros ya a nivel 2 esculcamos lo suficiente y decimos.
+Virginia Durango Muriel 1 minuto 24 segundos
+Eso sí es un error en el código, eso hay que hacerlo como una raizal. Entonces, cuando ya lo llamamos como una raizal, un ajuste a la codificación, venga señor, hay que llevarlo a hacer un desarrollo listo en este momento de mi lado yo tengo nivel uno y nivel 2 y nivel 3. Yo no tengo nivel uno, nivel 2 y nivel 3 en diferentes mesas tiene sus propias responsabilidades de nivel 2 y nivel 3. Listo.
+Virginia Durango Muriel 1 minuto 47 segundos
+¿Cuál es el punto acá con ese con ese que fue el primero que quise mencionar? Y es que no hay algo claro PersonalSoft que a nosotros nos determine esos límites de los niveles y esas características que tenemos que tener en cada uno de los niveles para uno decir, venga, esto fue bien vendido o no bien vendido según la ITIL y según las prácticas de lo que es una mesa de servicio.
+Virginia Durango Muriel 2 minutos 8 segundos
+¿Cierto, por qué nos dimos cuenta? Porque cuando ya convocamos los de Bancolombia, cuando empezamos a hablar de los niveles, o sea, yo ni entendí qué es lo que manejan en Bancolombia, haciéndoles muy sincero, cierto Linis, pues quedamos ahí como plop, pero bueno, entonces nosotros cuando ofrecemos este.
+L
+
+Lina Marcela Vargas Vargas
+2 minutos 17 segundos2:17
+Lina Marcela Vargas Vargas 2 minutos 17 segundos
+Okay.
+Lina Marcela Vargas Vargas 2 minutos 19 segundos
+Yeah.
+
+Jhon Fredy Jimenez Vélez
+2 minutos 22 segundos2:22
+Jhon Fredy Jimenez Vélez 2 minutos 22 segundos
+Y la y la visual de Fabio es que está muy bien montado.
+
+Jhon Fredy Jimenez Vélez
+33 minutos 31 segundos33:31
+Jhon Fredy Jimenez Vélez 33 minutos 31 segundos
+XM.
+Jhon Fredy Jimenez Vélez 33 minutos 34 segundos
+XM que se me ha ido del radar y quién se me ha ido.
+Jhon Fredy Jimenez Vélez 33 minutos 43 segundos
+Y aquí y aquí se ve si tiene uno pa donde crecer.
+VM
+Virginia Durango Muriel
+33 minutos 47 segundos33:47
+Virginia Durango Muriel 33 minutos 47 segundos
+XM es grande, sí.
+
+Jhon Fredy Jimenez Vélez
+33 minutos 48 segundos33:48
+Jhon Fredy Jimenez Vélez 33 minutos 48 segundos
+Dice M, ahí tenemos un paquete. Yo me acuerdo cuando está por paquete, pero ahora son como 6 o 7 paquetes que cuando el cliente vuelva ahí y renueve un contrato de volver a feriar los paquetes, uno poder allá también.
+VM
+Virginia Durango Muriel
+34 minutos34:00
+Virginia Durango Muriel 34 minutos
+Claro, y ese es y ese es nivel 3 y ese es nivel 3. Entonces, bueno, hay de todos los sabores. Bueno, gracias, niños.
+
+Jhon Fredy Jimenez Vélez
+34 minutos 7 segundos34:07
+Jhon Fredy Jimenez Vélez 34 minutos 7 segundos
+Listo.
+L
+Lina Marcela Vargas Vargas
+34 minutos 8 segundos34:08
+Lina Marcela Vargas Vargas 34 minutos 8 segundos
+Hay pan tres en este.
+Lina Marcela Vargas Vargas 34 minutos 9 segundos
+Muchísimas gracias a ustedes gracias por el espacio ahí les ahí les compartí si tienen alguna de pronto dificultad o eso porque se los mandé en png y también el link por si pueden entrar listo cuenta me cuenta listo feliz tarde que estén bien chao
+
+Jhon Fredy Jimenez Vélez
+34 minutos 10 segundos34:10
+Jhon Fredy Jimenez Vélez 34 minutos 10 segundos
+Sí, listo. Muchas gracias, Virlina, muchas gracias.
+VM
+Virginia Durango Muriel
+34 minutos 10 segundos34:10
+Virginia Durango Muriel 34 minutos 10 segundos
+Sí, bueno, Natalia, con gusto, listo.
+J
+Johanna Patricia Celada Morales
+34 minutos 13 segundos34:13
+Johanna Patricia Celada Morales 34 minutos 13 segundos
+Bueno, hasta luego, gracias.
+
+Natalia Zartha Suarez
+34 minutos 15 segundos34:15
+Natalia Zartha Suarez 34 minutos 15 segundos
+Sí.
+Natalia Zartha Suarez 34 minutos 20 segundos
+Bye.
+Natalia Zartha Suarez 34 minutos 23 segundos
+Perfecto.
+Natalia Zartha Suarez 34 minutos 24 segundos
+Dale, muchísimas gracias, que estén bien, chaito, gracias, chao.
+
+Jhon Fredy Jimenez Vélez
+34 minutos 24 segundos34:24
+Jhon Fredy Jimenez Vélez 34 minutos 24 segundos
+De una, gracias, chao, hablamos. Bueno, pues súper feliz tarde, pues.
+J
+Johanna Patricia Celada Morales
+34 minutos 27 segundos34:27
+Johanna Patricia Celada Morales 34 minutos 27 segundos
+Bueno, hasta luego, gracias.
+
+Virginia Durango Muriel detuvo la transcripción

@@ -1,0 +1,172 @@
+Natalia Zartha Suarez empezó la transcripción
+
+Natalia Zartha Suarez
+0 minutos 3 segundos0:03
+Natalia Zartha Suarez 0 minutos 3 segundos
+Sí, dime tranquilo.
+
+Michael Arevalo Luna
+0 minutos 4 segundos0:04
+Michael Arevalo Luna 0 minutos 4 segundos
+Dale y yo ahorita les doy un contexto de del cliente, vale.
+
+Natalia Zartha Suarez
+0 minutos 8 segundos0:08
+Natalia Zartha Suarez 0 minutos 8 segundos
+Dale listo listo Claro que sí muchas gracias Bueno si quieres te cuento yo ingresé hace más de una semanita a la a la empresa estoy en el área de de servicios Muchas gracias estoy en el área de servicios de innovación y vamos a diseñar un nuevo servicio para mesa de de servicios entonces antes de arrancar con el diseño queremos levantar la información que tenemos de las mesas actuales las lecciones
+
+Michael Arevalo Luna
+0 minutos 17 segundos0:17
+Michael Arevalo Luna 0 minutos 17 segundos
+Bienvenida.
+
+Natalia Zartha Suarez
+0 minutos 32 segundos0:32
+Natalia Zartha Suarez 0 minutos 32 segundos
+aprendidas Cuál es de pronto el feedback tuyo qué podríamos mejorar en el en el servicio que se va a estandarizar y a venir cierto si quieres te comparto acá muy muy rapidito nosotros decimos como eso es como una guía para irte preguntando no es que no es ni una evaluación es
+Natalia Zartha Suarez 0 minutos 52 segundos
+es como una auditoría muy rigurosa si no se cumple no no pasa nada o sea la idea es que podamos obtener como la mayor información posible y de ahí ya partir con el diseño cierto Entonces más o menos lo que hemos identificado en las en la madurez de las mesas de servicio lo estamos catalogando en estos cinco niveles en nivel uno que es un nivel muy muy inicial
+Natalia Zartha Suarez 1 minuto 15 segundos
+muy reactivo entonces salen tickets y se responden en el volumen que va saliendo y tiene un factor de riesgo y es el conocimiento hacia las personas y si rota pues es es muy eh un un riesgo para la la empresa entonces a esto lo lo llamamos el reactivo y crecimiento automatizado
+Natalia Zartha Suarez 1 minuto 34 segundos
+que por hoy en día es como muy reactivo el nivel y todo es un nivel más administrado entonces son procesos por mesa herramientas tickets y es como lo mínimo que tiene una mesa de ayuda o un Help de que por el contexto que nos yo yo creo que es es el caso cierto eh después el nivel tres que es predictivo y evolutivo es donde queremos empezar a a
+Natalia Zartha Suarez 1 minuto 55 segundos
+ayudar las mesas un nivel cuatro que ya es más como cuantitativas métricas y el nivel 5 es el servicio que nosotros queremos diseñar algo muy autónomo muy estandarizado muy óptimo entonces tiene como Mostrar Aquí estos cinco niveles porque de ahí y y si quieres ya nos vas dando como el el contexto diseñamos esta planta
+Natalia Zartha Suarez 2 minutos 15 segundos
+ya o sea te la muestro Qué son los puntos que que queremos levantar información general tratar de identificar En qué nivel En qué nivel estamos en cada mesa eh unas preguntas a nivel de prácticas y de itil cierto volumetría kpis que de pronto tengas eh distribución de de incidentes por categoría si están
+Natalia Zartha Suarez 2 minutos 38 segundos
+tema de experiencia del usuario del usuario del cliente cierto algunos dolores nosotros identificamos 18 dólares pero pueden haber más entonces como que les duele a ustedes temas de inter rotación y talento herramientas tecnologías algo del modelo económico si se conoce y eso ya es como para el nuevo servicio entonces una visión para el nuevo servicio
+Natalia Zartha Suarez 2 minutos 59 segundos
+qué debería cambiar y si tenemos algún caso de éxito listo y entonces si quieres aquí ya te doy la palabra yo aquí he empezado a tomar apuntes con lo que ya me me me ha pasado cierto para que seamos más o menos que sé que es una empresa de energía sé que pues yo lo puse Aquí como un gel dex que es más como temas de infraestructura
+Natalia Zartha Suarez 3 minutos 19 segundos
+Cierto, como de soporte de infraestructura, pero si quieres, ahora sí te dejo hablar. Ándale, sí.
+
+Michael Arevalo Luna
+3 minutos 23 segundos3:23
+Michael Arevalo Luna 3 minutos 23 segundos
+Dale nada, primero bienvenidos, que pena ahí que de cierta manera y cuando Johanna ayer me hizo preguntas, estaba como ocupado y no le ha dado respuesta y no está esta mañana y nada lo que necesiten con gusto. De cierta manera, yo siento que dentro del me imagino que con los con los clientes o de lo que están sacando de lo que estás haciendo ahorita.
+
+Natalia Zartha Suarez
+3 minutos 34 segundos3:34
+Natalia Zartha Suarez 3 minutos 34 segundos
+No, tranquilo.
+Natalia Zartha Suarez 3 minutos 43 segundos
+Sí.
+
+Michael Arevalo Luna
+3 minutos 44 segundos3:44
+Michael Arevalo Luna 3 minutos 44 segundos
+No debería estar dentro de esas priorías iniciales y ya te cuento por qué.
+
+Natalia Zartha Suarez
+3 minutos 47 segundos3:47
+Natalia Zartha Suarez 3 minutos 47 segundos
+O K, de bueno, sí.
+
+Michael Arevalo Luna
+3 minutos 49 segundos3:49
+Michael Arevalo Luna 3 minutos 49 segundos
+En este momento nosotros teníamos un contrato vigente hasta el 12 de agosto. Sí, ajá, ya les voy a contar. Entonces, ¿qué pasa? En se generó un RFP para licitación y hacer una renovación. Nosotros entramos a participar junto con otras cuatro o 5 compañías. Ajá.
+
+Natalia Zartha Suarez
+3 minutos 53 segundos3:53
+Natalia Zartha Suarez 3 minutos 53 segundos
+Y se termina.
+Natalia Zartha Suarez 3 minutos 55 segundos
+bueno.
+
+Michael Arevalo Luna
+4 minutos 7 segundos4:07
+Michael Arevalo Luna 4 minutos 7 segundos
+Hola Fredy, buen día.
+F
+Fredy Alonso Pinilla Juez
+4 minutos 9 segundos4:09
+Fredy Alonso Pinilla Juez 4 minutos 9 segundos
+Buen día para todos.
+
+Natalia Zartha Suarez
+4 minutos 11 segundos4:11
+Natalia Zartha Suarez 4 minutos 11 segundos
+Buenos días, Fredy, un gusto.
+
+Michael Arevalo Luna
+4 minutos 11 segundos4:11
+Michael Arevalo Luna 4 minutos 11 segundos
+Les presento a Fredy. Fredy es el coordinador que nos ayuda. Bueno, de hecho Fredy tiene doble error en AES. Él nos ayuda directamente en la planta, ellos están ubicados en la planta. Entonces Fredy es el que coordina como todas las actividades y es dentro de lo que hace el gerente y las solicitudes que hace la gerencia de AES dentro de la planta, pues ahí está ahí como coordinando.
+
+Natalia Zartha Suarez
+4 minutos 32 segundos4:32
+Natalia Zartha Suarez 4 minutos 32 segundos
+Sí.
+
+Michael Arevalo Luna
+4 minutos 33 segundos4:33
+Michael Arevalo Luna 4 minutos 33 segundos
+Todo lo que se requiera.
+
+Natalia Zartha Suarez
+4 minutos 35 segundos4:35
+Natalia Zartha Suarez 4 minutos 35 segundos
+Un gusto.
+
+Michael Arevalo Luna
+4 minutos 36 segundos4:36
+Michael Arevalo Luna 4 minutos 36 segundos
+Vale, entonces la idea de que Fredy nos acompañe es de cierta manera. Yo sé que él nos puede ayudar a tener algún entendimiento en cosas que a mí se me se me pasen, pero pues como te decía, digamos que antes de llegar a ese punto, siento que con el tema del RFP.
+F
+Fredy Alonso Pinilla Juez
+4 minutos 37 segundos4:37
+Fredy Alonso Pinilla Juez 4 minutos 37 segundos
+Igualmente.
+
+Michael Arevalo Luna
+4 minutos 56 segundos4:56
+Michael Arevalo Luna 4 minutos 56 segundos
+y con lo que como está actualmente este servicio, como funciona actualmente, eso va a cambiar muchísimo. Sí, digamos que actualmente, pues nosotros ellos están bajo el modelo de staffing, pero entonces con el error FP nuevo, el tema va a cambiar al punto en que nosotros nos vamos a cargar de absolutamente toda la operación.
+
+Natalia Zartha Suarez
+5 minutos 7 segundos5:07
+Natalia Zartha Suarez 5 minutos 7 segundos
+Sing.
+
+Michael Arevalo Luna
+28 minutos 1 segundo28:01
+Michael Arevalo Luna 28 minutos 1 segundo
+No a ustedes lo que necesiten con mucho gusto igual.
+
+Joan Sebastian Rengifo Ocampo
+28 minutos 1 segundo28:01
+Joan Sebastian Rengifo Ocampo 28 minutos 1 segundo
+Listo, muchas gracias.
+F
+Fredy Alonso Pinilla Juez
+28 minutos 2 segundos28:02
+Fredy Alonso Pinilla Juez 28 minutos 2 segundos
+Vale.
+Fredy Alonso Pinilla Juez 28 minutos 3 segundos
+Con todo gusto y cualquier consulta, pues quedamos ahí pendientes.
+
+Natalia Zartha Suarez
+28 minutos 6 segundos28:06
+Natalia Zartha Suarez 28 minutos 6 segundos
+Es igualmente por acá, muchísimas gracias. Chaita, gracias, hasta luego, gracias.
+
+Joan Sebastian Rengifo Ocampo
+28 minutos 9 segundos28:09
+Joan Sebastian Rengifo Ocampo 28 minutos 9 segundos
+Bueno, hasta luego.
+
+Michael Arevalo Luna
+28 minutos 9 segundos28:09
+Michael Arevalo Luna 28 minutos 9 segundos
+Vale, que estén bien, chao.
+F
+Fredy Alonso Pinilla Juez
+28 minutos 10 segundos28:10
+Fredy Alonso Pinilla Juez 28 minutos 10 segundos
+No Natalia John.
+Fredy Alonso Pinilla Juez 28 minutos 12 segundos
+Better.
+
+Natalia Zartha Su
