@@ -26,7 +26,7 @@
 <line x1="270" y1="80" x2="270" y2="108" stroke="#85B7EB" stroke-width="0.5"/>
 <line x1="420" y1="80" x2="420" y2="108" stroke="#85B7EB" stroke-width="0.5"/>
 <line x1="340" y1="116" x2="340" y2="134" stroke="#B4B2A9" stroke-width="1" marker-end="url(#arrow)"/>
-<text x="40" y="152" font-size="10" font-weight="500" fill="#888780" font-family="sans-serif" letter-spacing="1">NIVELES DE SERVICIO</text>
+<text x="40" y="152" font-size="10" font-weight="500" fill="#888780" font-family="sans-serif" letter-spacing="1">NIVELES DE ATENCIÓN</text>
 <rect x="40" y="158" width="130" height="64" rx="8" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
 <text x="105" y="178" text-anchor="middle" font-size="11" font-weight="500" fill="#085041" font-family="sans-serif">N0 · Autoservicio</text>
 <text x="105" y="194" text-anchor="middle" font-size="10" fill="#0F6E56" font-family="sans-serif">Base de conocimiento</text>
