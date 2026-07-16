@@ -67,9 +67,133 @@ graph LR
 | Soporte IT/OT | AES | 🔴 N1 | 4 | N/D | N/D | N/D | N/D | 8x5 | IT/OT física | ARUS/SN | 🚨 RFP activo |
 | COES Integración | BCO | 🔴 N1 | 7 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ANS BCO | ~15 APIs | Helix (BCO) | ✅ 5 años |
 | COES Datos | BCO | 🔴 N1 | 7 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ANS BCO | ~8 fuentes | Helix (BCO) | ✅ 5 años |
-| COES Soporte | BCO | 🔴 N1 | 13 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ANS BCO | Transversal | Helix (BCO) | ✅ 5 años |
+| COES Soporte | BCO | 🔴 N1 | 13 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ANS BCO | Transversal | Helix (BCO) | ✅ 7 años |
 | COES Emma | BCO | 🔴 N1 | 4 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ANS BCO | 1 Emma+int | Helix (BCO) | ✅ 5 años |
 | Emma iSeries | BCO | 🔴 N1 | 1 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ANS BCO | 1 iSeries | Helix (BCO) | ✅ 5 años |
+
+---
+
+### 🎫 Tickets por Mesa al Mes
+
+<svg width="100%" viewBox="0 0 940 378" xmlns="http://www.w3.org/2000/svg">
+<text x="8" y="22" font-size="15" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">TICKETS POR MESA AL MES — Julio 2026 · BCO como rango (sin registro exacto)</text>
+<line x1="220" y1="36" x2="220" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+<text x="220" y="362" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">0</text>
+<line x1="320" y1="36" x2="320" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+<text x="320" y="362" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">500</text>
+<line x1="420" y1="36" x2="420" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+<text x="420" y="362" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">1.000</text>
+<line x1="520" y1="36" x2="520" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+<text x="520" y="362" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">1.500</text>
+<line x1="620" y1="36" x2="620" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+<text x="620" y="362" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">2.000</text>
+<line x1="720" y1="36" x2="720" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+<text x="720" y="362" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">2.500</text>
+<line x1="820" y1="36" x2="820" y2="344" stroke="#E5E7EB" stroke-width="1"/>
+<text x="820" y="362" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">3.000</text>
+<text x="210" y="63" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Cotizadores</text>
+<rect x="220.0" y="50.0" width="133.6" height="18" rx="4" fill="#34D399"/>
+<text x="361.6" y="63" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">668</text>
+<text x="210" y="93" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Automatización</text>
+<rect x="220.0" y="80.0" width="102.4" height="18" rx="4" fill="#34D399"/>
+<text x="330.4" y="93" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">512</text>
+<text x="210" y="123" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Venta Digital</text>
+<rect x="220.0" y="110.0" width="34.8" height="18" rx="4" fill="#34D399"/>
+<text x="262.8" y="123" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">174</text>
+<text x="210" y="153" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Canales Masivos</text>
+<rect x="220.0" y="140.0" width="34.2" height="18" rx="4" fill="#34D399"/>
+<text x="262.2" y="153" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">171</text>
+<text x="210" y="183" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">XM Apps Críticas</text>
+<rect x="220.0" y="170.0" width="18.0" height="18" rx="4" fill="#FBBF24"/>
+<text x="246.0" y="183" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">90</text>
+<text x="210" y="213" font-size="12.5" fill="#475569" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO COES Integración</text>
+<rect x="360.0" y="200.0" width="460.0" height="18" rx="4" fill="#38BDF8"/>
+<text x="828.0" y="213" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">700–3.000</text>
+<text x="210" y="243" font-size="12.5" fill="#475569" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO COES Datos</text>
+<rect x="360.0" y="230.0" width="460.0" height="18" rx="4" fill="#38BDF8"/>
+<text x="828.0" y="243" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">700–3.000</text>
+<text x="210" y="273" font-size="12.5" fill="#475569" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO COES Soporte</text>
+<rect x="360.0" y="260.0" width="460.0" height="18" rx="4" fill="#38BDF8"/>
+<text x="828.0" y="273" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">700–3.000</text>
+<text x="210" y="303" font-size="12.5" fill="#475569" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO COES Emma</text>
+<rect x="360.0" y="290.0" width="460.0" height="18" rx="4" fill="#38BDF8"/>
+<text x="828.0" y="303" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">700–3.000</text>
+<text x="210" y="333" font-size="12.5" fill="#475569" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO Emma iSeries</text>
+<rect x="360.0" y="320.0" width="460.0" height="18" rx="4" fill="#38BDF8"/>
+<text x="828.0" y="333" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">700–3.000</text>
+</svg>
+
+> **Fuente:** hoja *Metricas Sura* (668/174/512/171) · XM: transcript Diego Serna (90) · BCO: rango 700–3.000 tickets/mesa/mes reportado por la líder — sin registro exacto por mesa · AES: N/D. **Total SURA: 1.525 tickets/mes.** Cálculo vivo en Excel `Levantamiento_Mesas_Julio_2026_v3.xlsx`, hoja *Analisis de FTE, Tickets, MTTR* (bloque F34:I45).
+
+---
+
+### 👥 FTE por Mesa y por Cliente
+
+<svg width="100%" viewBox="0 0 940 408" xmlns="http://www.w3.org/2000/svg">
+<text x="8" y="22" font-size="15" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">FTE POR MESA — 57 FTE totales (11 mesas evaluadas · MEDICARTE en empalme no incluida)</text>
+<line x1="220" y1="36" x2="220" y2="374" stroke="#E5E7EB" stroke-width="1"/>
+<text x="220" y="392" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">0</text>
+<line x1="312" y1="36" x2="312" y2="374" stroke="#E5E7EB" stroke-width="1"/>
+<text x="312" y="392" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">2</text>
+<line x1="405" y1="36" x2="405" y2="374" stroke="#E5E7EB" stroke-width="1"/>
+<text x="405" y="392" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">4</text>
+<line x1="497" y1="36" x2="497" y2="374" stroke="#E5E7EB" stroke-width="1"/>
+<text x="497" y="392" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">6</text>
+<line x1="589" y1="36" x2="589" y2="374" stroke="#E5E7EB" stroke-width="1"/>
+<text x="589" y="392" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">8</text>
+<line x1="682" y1="36" x2="682" y2="374" stroke="#E5E7EB" stroke-width="1"/>
+<text x="682" y="392" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">10</text>
+<line x1="774" y1="36" x2="774" y2="374" stroke="#E5E7EB" stroke-width="1"/>
+<text x="774" y="392" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">12</text>
+<text x="210" y="63" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO COES Soporte</text>
+<rect x="220.0" y="50.0" width="600.0" height="18" rx="4" fill="#38BDF8"/>
+<text x="828.0" y="63" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">13</text>
+<text x="210" y="93" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Cotizadores</text>
+<rect x="220.0" y="80.0" width="369.2" height="18" rx="4" fill="#34D399"/>
+<text x="597.2" y="93" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">8</text>
+<text x="210" y="123" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO COES Integración</text>
+<rect x="220.0" y="110.0" width="323.1" height="18" rx="4" fill="#38BDF8"/>
+<text x="551.1" y="123" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">7</text>
+<text x="210" y="153" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO COES Datos</text>
+<rect x="220.0" y="140.0" width="323.1" height="18" rx="4" fill="#38BDF8"/>
+<text x="551.1" y="153" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">7</text>
+<text x="210" y="183" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Automatización</text>
+<rect x="220.0" y="170.0" width="276.9" height="18" rx="4" fill="#34D399"/>
+<text x="504.9" y="183" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">6</text>
+<text x="210" y="213" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO COES Emma</text>
+<rect x="220.0" y="200.0" width="184.6" height="18" rx="4" fill="#38BDF8"/>
+<text x="412.6" y="213" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">4</text>
+<text x="210" y="243" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">XM Apps Críticas</text>
+<rect x="220.0" y="230.0" width="184.6" height="18" rx="4" fill="#FBBF24"/>
+<text x="412.6" y="243" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">4</text>
+<text x="210" y="273" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">AES Soporte IT/OT</text>
+<rect x="220.0" y="260.0" width="184.6" height="18" rx="4" fill="#F87171"/>
+<text x="412.6" y="273" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">4</text>
+<text x="210" y="303" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Venta Digital</text>
+<rect x="220.0" y="290.0" width="92.3" height="18" rx="4" fill="#34D399"/>
+<text x="320.3" y="303" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">2</text>
+<text x="210" y="333" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO Emma iSeries</text>
+<rect x="220.0" y="320.0" width="46.2" height="18" rx="4" fill="#38BDF8"/>
+<text x="274.2" y="333" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">1</text>
+<text x="210" y="363" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Canales Masivos</text>
+<rect x="220.0" y="350.0" width="46.2" height="18" rx="4" fill="#34D399"/>
+<text x="274.2" y="363" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">1</text>
+</svg>
+
+<svg width="100%" viewBox="0 0 940 150" xmlns="http://www.w3.org/2000/svg">
+<text x="8" y="22" font-size="15" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">DISTRIBUCIÓN DE CAPACIDAD — FTE POR CLIENTE (57 FTE)</text>
+<rect x="20.0" y="46" width="505.3" height="46" fill="#38BDF8"/>
+<text x="272.6" y="74.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">Bancolombia · 32 (56%)</text>
+<rect x="525.3" y="46" width="268.4" height="46" fill="#34D399"/>
+<text x="659.5" y="74.0" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">SURA · 17 (30%)</text>
+<rect x="793.7" y="46" width="63.2" height="46" fill="#FBBF24"/>
+<text x="825.3" y="38.0" font-size="13" font-weight="700" fill="#132346" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">XM · 4 (7%)</text>
+<rect x="856.8" y="46" width="63.2" height="46" fill="#F87171"/>
+<text x="888.4" y="38.0" font-size="13" font-weight="700" fill="#132346" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">AES · 4 (7%)</text>
+<text x="20" y="118" font-size="12" fill="#6B7280" font-family="Segoe UI, Arial, sans-serif">Bancolombia concentra el 56% de la fuerza laboral evaluada — estandarizar su operación es condición de escalabilidad.</text>
+</svg>
+
+> **Origen:** SURA por fórmula desde *Metricas Sura* fila 13 (8/2/6/1) · XM, AES y BCO del levantamiento por mesa (4/4 y 7/7/13/4/1). Tabla con fórmulas en la hoja *Analisis de FTE, Tickets, MTTR* (rango D12:D22).
 
 ---
 
@@ -114,26 +238,184 @@ pie title Dolores P1 — Distribucion por categoria
 
 ---
 
+### 🧭 Mapa de Dolores por Categoría
+
+<svg width="100%" viewBox="0 0 940 556" xmlns="http://www.w3.org/2000/svg">
+<text x="8" y="22" font-size="15" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">MAPA DE DOLORES POR CATEGORÍA — mesas afectadas (11 mesas)</text>
+<rect x="8" y="34" width="14" height="14" rx="3" fill="#132346"/><text x="27" y="46" font-size="12" fill="#132346" font-family="Segoe UI, Arial, sans-serif">Confirmado ●</text>
+<rect x="140" y="34" width="14" height="14" rx="3" fill="#94A3B8"/><text x="159" y="46" font-size="12" fill="#132346" font-family="Segoe UI, Arial, sans-serif">Parcial ◐</text>
+<line x1="400" y1="60" x2="400" y2="516" stroke="#E5E7EB"/>
+<text x="400" y="534" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">0</text>
+<line x1="478" y1="60" x2="478" y2="516" stroke="#E5E7EB"/>
+<text x="478" y="534" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">2</text>
+<line x1="556" y1="60" x2="556" y2="516" stroke="#E5E7EB"/>
+<text x="556" y="534" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">4</text>
+<line x1="635" y1="60" x2="635" y2="516" stroke="#E5E7EB"/>
+<text x="635" y="534" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">6</text>
+<line x1="713" y1="60" x2="713" y2="516" stroke="#E5E7EB"/>
+<text x="713" y="534" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">8</text>
+<line x1="791" y1="60" x2="791" y2="516" stroke="#E5E7EB"/>
+<text x="791" y="534" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">10</text>
+<text x="8" y="85" font-size="12.5" font-weight="700" fill="#3C3489" font-family="Segoe UI, Arial, sans-serif">Gobierno</text>
+<text x="390" y="85" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Sin RACI ni roles definidos</text>
+<rect x="400" y="72.0" width="430.0" height="18" rx="3" fill="#132346"/>
+<text x="838.0" y="85" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●11 · 11/11</text>
+<text x="390" y="115" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Sin gobierno — sin ANS formales</text>
+<rect x="400" y="102.0" width="273.6" height="18" rx="3" fill="#132346"/>
+<rect x="673.6" y="102.0" width="156.4" height="18" rx="3" fill="#94A3B8"/>
+<text x="838.0" y="115" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●7 ◐4 · 11/11</text>
+<text x="390" y="145" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Catálogo de servicios desactualizado</text>
+<rect x="400.0" y="132.0" width="430.0" height="18" rx="3" fill="#94A3B8"/>
+<text x="838.0" y="145" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">◐11 · 11/11</text>
+<text x="8" y="175" font-size="12.5" font-weight="700" fill="#0C447C" font-family="Segoe UI, Arial, sans-serif">Operación</text>
+<line x1="8" y1="155" x2="932" y2="155" stroke="#E5E7EB"/>
+<text x="390" y="175" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Postura 100% reactiva</text>
+<rect x="400" y="162.0" width="351.8" height="18" rx="3" fill="#132346"/>
+<rect x="751.8" y="162.0" width="78.2" height="18" rx="3" fill="#94A3B8"/>
+<text x="838.0" y="175" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●9 ◐2 · 11/11</text>
+<text x="390" y="205" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Sin autoservicio — todo por call</text>
+<rect x="400" y="192.0" width="430.0" height="18" rx="3" fill="#132346"/>
+<text x="838.0" y="205" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●11 · 11/11</text>
+<text x="390" y="235" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Scope creep — alcance no controlado</text>
+<rect x="400" y="222.0" width="156.4" height="18" rx="3" fill="#132346"/>
+<rect x="556.4" y="222.0" width="273.6" height="18" rx="3" fill="#94A3B8"/>
+<text x="838.0" y="235" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●4 ◐7 · 11/11</text>
+<text x="390" y="265" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SLAs incumplidos / penalizaciones</text>
+<rect x="400" y="252.0" width="117.3" height="18" rx="3" fill="#132346"/>
+<text x="525.3" y="265" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●3 · 3/11</text>
+<text x="8" y="295" font-size="12.5" font-weight="700" fill="#085041" font-family="Segoe UI, Arial, sans-serif">Métricas</text>
+<line x1="8" y1="275" x2="932" y2="275" stroke="#E5E7EB"/>
+<text x="390" y="295" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Sin métricas ni KPIs</text>
+<rect x="400" y="282.0" width="312.7" height="18" rx="3" fill="#132346"/>
+<rect x="712.7" y="282.0" width="117.3" height="18" rx="3" fill="#94A3B8"/>
+<text x="838.0" y="295" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●8 ◐3 · 11/11</text>
+<text x="390" y="325" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Sin dashboard ejecutivo</text>
+<rect x="400" y="312.0" width="117.3" height="18" rx="3" fill="#132346"/>
+<rect x="517.3" y="312.0" width="273.6" height="18" rx="3" fill="#94A3B8"/>
+<text x="798.9" y="325" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●3 ◐7 · 10/11</text>
+<text x="8" y="355" font-size="12.5" font-weight="700" fill="#633806" font-family="Segoe UI, Arial, sans-serif">Talento</text>
+<line x1="8" y1="335" x2="932" y2="335" stroke="#E5E7EB"/>
+<text x="390" y="355" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Rotación — pérdida de conocimiento</text>
+<rect x="400.0" y="342.0" width="430.0" height="18" rx="3" fill="#94A3B8"/>
+<text x="838.0" y="355" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">◐11 · 11/11</text>
+<text x="390" y="385" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Asignación sin modelo de demanda</text>
+<rect x="400" y="372.0" width="430.0" height="18" rx="3" fill="#132346"/>
+<text x="838.0" y="385" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●11 · 11/11</text>
+<text x="390" y="415" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Penalización de la eficiencia</text>
+<rect x="400" y="402.0" width="78.2" height="18" rx="3" fill="#132346"/>
+<rect x="478.2" y="402.0" width="312.7" height="18" rx="3" fill="#94A3B8"/>
+<text x="798.9" y="415" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●2 ◐8 · 10/11</text>
+<text x="8" y="445" font-size="12.5" font-weight="700" fill="#712B13" font-family="Segoe UI, Arial, sans-serif">Comercial</text>
+<line x1="8" y1="425" x2="932" y2="425" stroke="#E5E7EB"/>
+<text x="390" y="445" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Brechas vendido vs ejecutado</text>
+<rect x="400" y="432.0" width="430.0" height="18" rx="3" fill="#132346"/>
+<text x="838.0" y="445" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●11 · 11/11</text>
+<text x="390" y="475" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Sin KEDB — gestión informal</text>
+<rect x="400" y="462.0" width="39.1" height="18" rx="3" fill="#132346"/>
+<text x="447.1" y="475" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●1 · 1/11</text>
+<text x="390" y="505" font-size="12" fill="#334155" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Herramientas fragmentadas</text>
+<rect x="400" y="492.0" width="39.1" height="18" rx="3" fill="#132346"/>
+<rect x="439.1" y="492.0" width="390.9" height="18" rx="3" fill="#94A3B8"/>
+<text x="838.0" y="505" font-size="12" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">●1 ◐10 · 11/11</text>
+</svg>
+
+> Conteo de ● (confirmado) y ◐ (parcial) por dolor sobre las 11 mesas del mapa de dolores de la PPT, agrupado por las 5 categorías con nombre completo. Datos y gráfica también en el Excel (hoja *Analisis*, filas 62–80).
+
+---
+
 ### 📈 MTTR por Mesa vs Benchmarks
 
-- MTTR (horas) — menor es mejor · Escala máx 25h
-- XM              N/D     — sin medición formal
-- AES             N/D     — sin medición formal
+<svg width="100%" viewBox="0 0 940 318" xmlns="http://www.w3.org/2000/svg">
+<text x="8" y="22" font-size="15" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">MTTR POR MESA (horas) — registro Julio 2026 vs Benchmarks · menor es mejor</text>
+<line x1="220" y1="36" x2="220" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="220" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">0</text>
+<line x1="340" y1="36" x2="340" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="340" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">5</text>
+<line x1="460" y1="36" x2="460" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="460" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">10</text>
+<line x1="580" y1="36" x2="580" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="580" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">15</text>
+<line x1="700" y1="36" x2="700" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="700" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">20</text>
+<line x1="820" y1="36" x2="820" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="820" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">25</text>
+<text x="210" y="63" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Cotizadores</text>
+<rect x="220.0" y="50.0" width="589.9" height="18" rx="4" fill="#F76B6B"/>
+<text x="817.9" y="63" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">24.58 h</text>
+<text x="210" y="93" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Canales Masivos</text>
+<rect x="220.0" y="80.0" width="430.1" height="18" rx="4" fill="#F76B6B"/>
+<text x="658.1" y="93" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">17.92 h</text>
+<text x="210" y="123" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Venta Digital</text>
+<rect x="220.0" y="110.0" width="297.1" height="18" rx="4" fill="#FBBF24"/>
+<text x="525.1" y="123" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">12.38 h</text>
+<text x="210" y="153" font-size="12.5" fill="#6B7280" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Industria promedio</text>
+<rect x="220.0" y="140.0" width="212.4" height="18" rx="4" fill="#8C9BB0"/>
+<text x="440.4" y="153" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">8.85 h</text>
+<text x="210" y="183" font-size="12.5" fill="#6B7280" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">World-Class</text>
+<rect x="220.0" y="170.0" width="96.0" height="18" rx="4" fill="#8C9BB0"/>
+<text x="324.0" y="183" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">&lt;4 h</text>
+<text x="210" y="213" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Automatización</text>
+<rect x="220.0" y="200.0" width="71.5" height="18" rx="4" fill="#25C88F"/>
+<text x="299.5" y="213" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">2.98 h ✔</text>
+<text x="210" y="243" font-size="12.5" fill="#475569" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO 5 COES (rango)</text>
+<rect x="232.0" y="230.0" width="60.0" height="18" rx="4" fill="#38BDF8"/>
+<text x="300.0" y="243" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">0.5–3 h</text>
+<text x="210" y="273" font-size="12.5" fill="#6B7280" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">MEDICARTE (preliminar)</text>
+<rect x="220.0" y="260.0" width="13.2" height="18" rx="4" fill="#8C9BB0"/>
+<text x="241.2" y="273" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">0.55 h</text>
+</svg>
+
+> **XM y AES:** sin medición formal (N/D) · **BCO:** rango operativo 30min–3h sin registro mensual · **MEDICARTE:** dato preliminar (empalme) · Benchmarks: MetricNet/HDI (industria 8.85h · world-class &lt;4h). SURA desde *Metricas Sura* fila 7.
 
 ---
 
 ### 💰 Costo por Ticket vs Industria
 
-- COSTO POR TICKET (USD) — FTE × 160h × $88K COP ÷ tix ÷ $4.200
-- Meta Gen Next N3   $15  ██
-- Industria N1-N2    $35  █████
-- SURA Can. Masivos  $20  ███                    -$15 ✅ bajo ind.
-- SURA Automatiz.    $39  ██████                 +$4  🟡
-- SURA Venta Dig.    $39  ██████                 +$4  🟡
-- SURA Cotizadores   $40  ██████                 +$5  🔴
-- XM Apps Críticas  $149  █████████████████████  +$114 ⚠️ costo 24x7
-- BCO / AES: sin costo/ticket calculable (sin datos de tix o N/D)
-- Ahorro potencial SURA → N3: ~$22/tix × 1.525 tix/mes = $33.550 USD/mes
+<svg width="100%" viewBox="0 0 940 318" xmlns="http://www.w3.org/2000/svg">
+<text x="8" y="22" font-size="15" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">COSTO USD POR TICKET — (FTE × 160h × $88.000 COP) ÷ tickets/mes ÷ TRM $4.200</text>
+<line x1="220" y1="36" x2="220" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="220" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">$0</text>
+<line x1="320" y1="36" x2="320" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="320" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">$25</text>
+<line x1="420" y1="36" x2="420" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="420" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">$50</text>
+<line x1="520" y1="36" x2="520" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="520" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">$75</text>
+<line x1="620" y1="36" x2="620" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="620" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">$100</text>
+<line x1="720" y1="36" x2="720" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="720" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">$125</text>
+<line x1="820" y1="36" x2="820" y2="284" stroke="#E5E7EB" stroke-width="1"/>
+<text x="820" y="302" font-size="11" fill="#6B7280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">$150</text>
+<text x="210" y="63" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">XM Apps Críticas</text>
+<rect x="220.0" y="50.0" width="596.0" height="18" rx="4" fill="#F76B6B"/>
+<text x="824.0" y="63" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">$149 ⚠ 24x7</text>
+<text x="210" y="93" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Cotizadores</text>
+<rect x="220.0" y="80.0" width="160.0" height="18" rx="4" fill="#F76B6B"/>
+<text x="388.0" y="93" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">$40 (+$5)</text>
+<text x="210" y="123" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Automatización</text>
+<rect x="220.0" y="110.0" width="156.0" height="18" rx="4" fill="#F76B6B"/>
+<text x="384.0" y="123" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">$39 (+$4)</text>
+<text x="210" y="153" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Venta Digital</text>
+<rect x="220.0" y="140.0" width="156.0" height="18" rx="4" fill="#F76B6B"/>
+<text x="384.0" y="153" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">$39 (+$4)</text>
+<text x="210" y="183" font-size="12.5" fill="#6B7280" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Industria N1-N2</text>
+<rect x="220.0" y="170.0" width="140.0" height="18" rx="4" fill="#8C9BB0"/>
+<text x="368.0" y="183" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">$35</text>
+<text x="210" y="213" font-size="12.5" fill="#475569" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">BCO 5 COES (estimado)</text>
+<rect x="248.0" y="200.0" width="96.0" height="18" rx="4" fill="#38BDF8"/>
+<text x="352.0" y="213" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">$7–$31*</text>
+<text x="210" y="243" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">SURA Canales Masivos</text>
+<rect x="220.0" y="230.0" width="80.0" height="18" rx="4" fill="#25C88F"/>
+<text x="308.0" y="243" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">$20 (−$15)</text>
+<text x="210" y="273" font-size="12.5" fill="#132346" text-anchor="end" font-family="Segoe UI, Arial, sans-serif">Meta Gen Next N3</text>
+<rect x="220.0" y="260.0" width="60.0" height="18" rx="4" fill="#21B0F0"/>
+<text x="288.0" y="273" font-size="12.5" font-weight="700" fill="#132346" font-family="Segoe UI, Arial, sans-serif">$15 🎯</text>
+</svg>
+
+> ***BCO estimado:** $450,6M COP/mes (32 FTE) ÷ 3.500–15.000 tickets (700–3.000 × 5 COES) ÷ $4.200 → **USD $7–$31/ticket** — sin dato formal ("no manejamos esa información"). · **AES:** N/D.
+> **XM ($149):** costo de disponibilidad 24x7, no ineficiencia — 4 FTE resuelven 90 tix/mes (22.5 tix/FTE vs 80+ industria).
+> **Ahorro potencial SURA → N3:** ~$22/tix × 1.525 tix/mes ≈ **$33.550 USD/mes**. Cálculo completo con fórmulas vivas en el Excel, hoja *Analisis de FTE, Tickets, MTTR*.
 
 ---
 
@@ -293,7 +575,7 @@ timeline
 | **MTTR** | 30min–3h ✅ (operacionalmente bueno — sin ANS formal PS) |
 | **SLA** | ANS Banco/COES (no existe SLA de PS) |
 | **USD/ticket** | N/D ("no manejamos esa información") |
-| **Contrato** | Bolsa de horas · **5 años** activos |
+| **Contrato** | Bolsa de horas · **Integración: 5 años** · **Soporte: 7 años** de operación |
 | **Dolores top** | D20 Dimensionamiento · D16 Brechas · D23 Recargo · D1 Bus factor |
 
 ---
@@ -459,7 +741,7 @@ Se han caracterizado **4 clientes principales** en el portafolio de servicios, e
 
 | Equipo/COES | FTE | Función | Tecnología |
 |-------------|-----|---------|-----------|
-| COES Integración | 9 | Integración de sistemas, APIs, middleware | Helix |
+| COES Integración | 7 | Integración de sistemas, APIs, middleware | Helix |
 | COES Emma | 4 | Plataforma Emma | Helix |
 | COES Emma Iseries | 1 | Sistemas legacy Iseries | Helix |
 | COES Soporte | 13 | Soporte general, incidentes | Helix |
@@ -1726,7 +2008,7 @@ Fecha: Julio 2026
 | Soporte IT/OT | AES | N1 | 4 | N/D | N/D | N/D | N/D | 🚨 RFP activo |
 | COES Integración | BCO | N1 | 7 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ✅ 5 años |
 | COES Datos | BCO | N1 | 7 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ✅ 5 años |
-| COES Soporte | BCO | N1 | 13 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ✅ 5 años |
+| COES Soporte | BCO | N1 | 13 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ✅ 7 años |
 | COES Emma | BCO | N1 | 4 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ✅ 5 años |
 | Emma iSeries | BCO | N1 | 1 | 700-3k | 30m-3h ✅ | ANS Banco | N/D | ✅ 5 años |
 
@@ -1813,7 +2095,7 @@ Fecha: Julio 2026
 - 🟡 SURA Venta Digital       MEDIO (ago 2026)   Plan escalamiento + contingencia
 - 🟡 SURA Automatización      MEDIO (ago 2026)   Aprovechar como modelo para Wave 1
 - 🟢 XM Apps Críticas         BAJO (jul 2027)    Formalizar RACI y KEDB antes de 2027
-- 🟢 BCO (5 COES)            BAJO (5 años)      Priorizar ANS formal con PS en Wave 1
+- 🟢 BCO (5 COES)            BAJO (5–7 años)    Priorizar ANS formal con PS en Wave 1
 
 ---
 
